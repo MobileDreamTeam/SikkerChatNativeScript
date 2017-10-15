@@ -5,19 +5,21 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
+		69396F37FC53476EA61744E3 /* logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2233DF80C708463996DED2A1 /* logo@3x.png */; };
+		7FBC6663035E47D6999E65F6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 99973B695D1F4A81BFD573A7 /* logo.png */; };
+		8189FA73B82541019025DC37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7198681C54B445BDAD6E4D5D /* Assets.xcassets */; };
 		858B842D18CA22B800AB12DE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 858B833A18CA111C00AB12DE /* InfoPlist.strings */; };
+		8A274344EA514CC78D8E68A0 /* logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A60A990DB5364C7A8B444A57 /* logo@2x.png */; };
+		A79E75572A314F37B0747609 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 35F0B6923B3149DF939264D9 /* GoogleService-Info.plist */; };
+		A7CFEEFB0D5A4CBFA0885EE3 /* TNSWidgets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */; };
+		C9B2D5243EDB4E949DC06B6D /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 9DFF1815074F4F0E8486AC2A /* build.xcconfig */; };
+		C9E8413A1DAF485BAAF54197 /* TNSWidgets.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		CD45EE7C18DC2D5800FB50C0 /* app in Resources */ = {isa = PBXBuildFile; fileRef = CD45EE7A18DC2D5800FB50C0 /* app */; };
 		CD62955D1BB2678900AE3A93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD62955C1BB2678900AE3A93 /* main.m */; };
-		8189FA73B82541019025DC37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7198681C54B445BDAD6E4D5D /* Assets.xcassets */; };
 		D7CB116711E448F69AD2539E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B301961F0EA0432CAA970C97 /* LaunchScreen.storyboard */; };
-		C9B2D5243EDB4E949DC06B6D /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 9DFF1815074F4F0E8486AC2A /* build.xcconfig */; };
-		7FBC6663035E47D6999E65F6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 99973B695D1F4A81BFD573A7 /* logo.png */; };
-		8A274344EA514CC78D8E68A0 /* logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A60A990DB5364C7A8B444A57 /* logo@2x.png */; };
-		69396F37FC53476EA61744E3 /* logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2233DF80C708463996DED2A1 /* logo@3x.png */; };
-		A7CFEEFB0D5A4CBFA0885EE3 /* TNSWidgets.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */; };
-		C9E8413A1DAF485BAAF54197 /* TNSWidgets.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		A79E75572A314F37B0747609 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 35F0B6923B3149DF939264D9 /* GoogleService-Info.plist */; };
+		D8BF1153D19F3C2F0396955C /* Pods_SikkerChatNativeScript.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 790656BD327B0CC23ACE0A43 /* Pods_SikkerChatNativeScript.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,24 +37,25 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2233DF80C708463996DED2A1 /* logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo@3x.png"; path = "SikkerChatNativeScript/Resources/logo@3x.png"; sourceTree = "<group>"; };
+		35F0B6923B3149DF939264D9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = "GoogleService-Info.plist"; path = "SikkerChatNativeScript/Resources/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		7198681C54B445BDAD6E4D5D /* Assets.xcassets */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = Assets.xcassets; path = SikkerChatNativeScript/Resources/Assets.xcassets; sourceTree = "<group>"; };
+		790656BD327B0CC23ACE0A43 /* Pods_SikkerChatNativeScript.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SikkerChatNativeScript.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		858B832E18CA111C00AB12DE /* SikkerChatNativeScript.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SikkerChatNativeScript.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		858B833918CA111C00AB12DE /* SikkerChatNativeScript-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SikkerChatNativeScript-Info.plist"; sourceTree = "<group>"; };
 		858B833B18CA111C00AB12DE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		858B833F18CA111C00AB12DE /* SikkerChatNativeScript-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SikkerChatNativeScript-Prefix.pch"; sourceTree = "<group>"; };
 		858B843318CA22B800AB12DE /* SikkerChatNativeScript.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SikkerChatNativeScript.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		99973B695D1F4A81BFD573A7 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = SikkerChatNativeScript/Resources/logo.png; sourceTree = "<group>"; };
+		9DFF1815074F4F0E8486AC2A /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = build.xcconfig; path = SikkerChatNativeScript/Resources/build.xcconfig; sourceTree = "<group>"; };
+		A60A990DB5364C7A8B444A57 /* logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo@2x.png"; path = "SikkerChatNativeScript/Resources/logo@2x.png"; sourceTree = "<group>"; };
+		B301961F0EA0432CAA970C97 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = unknown; name = LaunchScreen.storyboard; path = SikkerChatNativeScript/Resources/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TNSWidgets.framework; path = "$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework"; sourceTree = "<group>"; };
 		CD45EE7A18DC2D5800FB50C0 /* app */ = {isa = PBXFileReference; lastKnownFileType = folder; path = app; sourceTree = "<group>"; };
 		CD62955C1BB2678900AE3A93 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = internal/main.m; sourceTree = SOURCE_ROOT; };
 		CDD59A261BB43B5D00EC2671 /* build-debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-debug.xcconfig"; sourceTree = "<group>"; };
 		CDD59A271BB43B5D00EC2671 /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-release.xcconfig"; sourceTree = "<group>"; };
 		CDF4743E1BA4855C0087EA85 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = build.xcconfig; sourceTree = "<group>"; };
-		7198681C54B445BDAD6E4D5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = Assets.xcassets; path = "SikkerChatNativeScript/Resources/Assets.xcassets"; sourceTree = "<group>"; fileEncoding = 4; };
-		B301961F0EA0432CAA970C97 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = LaunchScreen.storyboard; path = "SikkerChatNativeScript/Resources/LaunchScreen.storyboard"; sourceTree = "<group>"; fileEncoding = 4; };
-		9DFF1815074F4F0E8486AC2A /* build.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = build.xcconfig; path = "SikkerChatNativeScript/Resources/build.xcconfig"; sourceTree = "<group>"; fileEncoding = 4; };
-		99973B695D1F4A81BFD573A7 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = "SikkerChatNativeScript/Resources/logo.png"; sourceTree = "<group>"; };
-		A60A990DB5364C7A8B444A57 /* logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo@2x.png"; path = "SikkerChatNativeScript/Resources/logo@2x.png"; sourceTree = "<group>"; };
-		2233DF80C708463996DED2A1 /* logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo@3x.png"; path = "SikkerChatNativeScript/Resources/logo@3x.png"; sourceTree = "<group>"; };
-		B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TNSWidgets.framework; path = "$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework"; sourceTree = "<group>"; };
-		35F0B6923B3149DF939264D9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = unknown; name = "GoogleService-Info.plist"; path = "SikkerChatNativeScript/Resources/GoogleService-Info.plist"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7CFEEFB0D5A4CBFA0885EE3 /* TNSWidgets.framework in Frameworks */,
+				D8BF1153D19F3C2F0396955C /* Pods_SikkerChatNativeScript.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +78,7 @@
 				858B833718CA111C00AB12DE /* SikkerChatNativeScript */,
 				858B833018CA111C00AB12DE /* Frameworks */,
 				858B832F18CA111C00AB12DE /* Products */,
+				DCE264A4755050F2300F692F /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -90,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */,
+				790656BD327B0CC23ACE0A43 /* Pods_SikkerChatNativeScript.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -117,6 +123,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		DCE264A4755050F2300F692F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		E070579D1B39A9D000214BF1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -138,6 +151,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 858B843018CA22B800AB12DE /* Build configuration list for PBXNativeTarget "SikkerChatNativeScript" */;
 			buildPhases = (
+				458C3EBC644AD6AB510C4BF1 /* [CP] Check Pods Manifest.lock */,
 				C97FD7AC1ADE5369004DB2A4 /* NativeScript PreBuild */,
 				858B83F218CA22B800AB12DE /* Sources */,
 				CD62955B1BB2651D00AE3A93 /* NativeScript PreLink */,
@@ -145,6 +159,8 @@
 				858B842C18CA22B800AB12DE /* Resources */,
 				85F5BDFC1A9363BE006B9701 /* Embed Frameworks */,
 				CD3EAD351B05FF060042DBFC /* NativeScript PostBuild */,
+				46FCA837E53D90D3949AC8DD /* [CP] Embed Pods Frameworks */,
+				DE7606BCBE39003A481E2052 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -202,6 +218,50 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		458C3EBC644AD6AB510C4BF1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SikkerChatNativeScript-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		46FCA837E53D90D3949AC8DD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-SikkerChatNativeScript/Pods-SikkerChatNativeScript-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SikkerChatNativeScript/Pods-SikkerChatNativeScript-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		C97FD7AC1ADE5369004DB2A4 /* NativeScript PreBuild */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -245,6 +305,21 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"$SRCROOT/internal/nativescript-pre-link\"";
+			showEnvVarsInLog = 0;
+		};
+		DE7606BCBE39003A481E2052 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SikkerChatNativeScript/Pods-SikkerChatNativeScript-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -352,6 +427,10 @@
 				CLANG_ENABLE_MODULES = NO;
 				CLANG_MODULES_AUTOLINK = NO;
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SikkerChatNativeScript/SikkerChatNativeScript-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -363,10 +442,6 @@
 				PRODUCT_NAME = SikkerChatNativeScript;
 				VALID_ARCHS = "armv7 arm64";
 				WRAPPER_EXTENSION = app;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
-				);
 			};
 			name = Debug;
 		};
@@ -378,6 +453,10 @@
 				CLANG_ENABLE_MODULES = NO;
 				CLANG_MODULES_AUTOLINK = NO;
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SikkerChatNativeScript/SikkerChatNativeScript-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/SikkerChatNativeScript/SikkerChatNativeScript-Info.plist";
@@ -385,10 +464,6 @@
 				PRODUCT_NAME = SikkerChatNativeScript;
 				VALID_ARCHS = "armv7 arm64";
 				WRAPPER_EXTENSION = app;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
-				);
 			};
 			name = Release;
 		};
