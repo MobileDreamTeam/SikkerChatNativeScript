@@ -106,6 +106,11 @@ function addMessage(chatName, mess, userName) {
     var a = JSON.stringify(data);
     var b = a.replace('{', '');
     b = b.replace('}', '');
+    var c = data;
+    var key = data[userName];
+    console.log('c is good so far');
+    c[userName] = mess;
+    console.log('c is : ', c);
 
     //console.log('b is', b);
     var messArray = b.split(',');
@@ -121,7 +126,7 @@ function addMessage(chatName, mess, userName) {
 
     newJSON = newJSON + '}';
 
-    testDB.insert({ _id: chatName, _rev: rev, messages: newJSON }, function (err, body) {
+    testDB.insert({ _id: chatName, _rev: rev, messages: c  }, function (err, body) {
       if (!err) {
         //good to go
         console.log('change set');
@@ -131,6 +136,7 @@ function addMessage(chatName, mess, userName) {
 }
 
 //removeChat('d38bcec8cdfe71cc0f52604f4f000ce5', '2-165cf56d3bd4d973599d08ae172209f9');
+//removeChat('dirtyPeteScottyR', '21-df7a0837740c673026bbeaceb994aa76');
 //addChat(da, 'dirtyPeteScottyR');
 //getChatInfo('dirtyPeteScottyR').then((data) => {console.log(data._rev);});
 
