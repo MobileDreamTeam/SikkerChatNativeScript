@@ -12,9 +12,17 @@ describe('Database', function () {
 	});
 });
 
+
 //removeChat('d38bcec8cdfe71cc0f52604f4f000ce5', '2-165cf56d3bd4d973599d08ae172209f9');
 //removeChat('dirtyPeteScottyR', '21-df7a0837740c673026bbeaceb994aa76');
-//
+var da = {
+      messages: {
+        DirtyPete: 'Woah isnt this neat',
+        ScottyR: 'SO neat',
+      },
+    };
+
+//addChat(da,'testChat');
 //getChatInfo('dirtyPeteScottyR').then((data) => {console.log(data._rev);});
 
 //getMessageFrom('dirtyPeteScottyR', 'scottyR');
