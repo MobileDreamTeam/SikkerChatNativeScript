@@ -1,9 +1,9 @@
 var nano = require('nano')('http://localhost:5984');
 
-var testDB = nano.db.use('chats');
+var testDB = nano.db.use('users');
 
-let db = {
-  removeChat: function(docID, revisionID) {
+let userCheck = {
+  removeUser: function(docID, revisionID) {
     testDB.destroy(docID, revisionID, function (err, body) {
           if (!err) {
             console.log('DELETED THAT BITCH');} else {
@@ -14,7 +14,7 @@ let db = {
 
   //adds a chat to the Database
 
-  addChat: function(data, chatName) {
+  addUser: function(data, chatName) {
     var uniqueID = chatName;
     testDB.insert(data, uniqueID, function(err, body) {
       if (!err) {
@@ -153,14 +153,8 @@ var da = {
   },
 };
 
+//function for counting key values pairs
+//written by Amiya Sahu
 function countObjectKeys(obj) {
   return Object.keys(obj).length;
 }
-
-//db.addChat(da, 'sexyKeenanScottyR');
-
-//db.removeChat('sexyKeenanScottyR', '2-9b561d602aacb0a8fdfffdcd5166b35d');
-
-db.addMessage('sexyKeenanScottyR', 'SexyKeenan: I\'ll be there soon baby');
-
-module.exports = db;
