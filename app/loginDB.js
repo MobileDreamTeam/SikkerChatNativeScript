@@ -35,28 +35,28 @@ let userCheck = {
   },
 
   //gets the messages in the chat database given the name
-  getMessages: function(chatName) {
+  getUsers: function(chatName) {
     return new Promise((resolve, reject) => {
       testDB.get(chatName, function(err, body) {
         if (!err) {
           //console.log(body.messages);
-          var messageBody = body.messages;
+          var messageBody = body.users;
           if (messageBody) {
             resolve(messageBody);
           } else {
-            //console.log('No messages to retreive, check spelling');
+            console.log('No messages to retreive, check spelling');
           }
         } else {reject('ERROR');}
       });});
   },
 
   //gets message from that user
- getMessageFrom: function(chatName, userName) {
+ getPasswordOf: function( userName) {
     return new Promise((resolve, reject) => {
-      testDB.get(chatName, function(err, body) {
+      testDB.get('users', function(err, body) {
         if (!err) {
           //console.log(body.messages[userName]);
-          var messageFrom = body.messages[userName];
+          var messageFrom = body.users[userName];
           if (messageFrom) {
             resolve(messageFrom);
           } else {
@@ -69,7 +69,7 @@ let userCheck = {
   //returns information about the chats
   getChatInfo: function (chatName) {
     return new Promise((resolve, reject) => {
-      testDB.get(chatName, function (err, body) {
+      testDB.get(users, function (err, body) {
         if (!err) {
           console.log('inside');
           var info = body;
@@ -90,7 +90,7 @@ let userCheck = {
   //function that adds message to the database, keep in mind. Doesn't actually
   //add message, just replaces old string to new
 
-  addMessage: function (chatName, mess) {
+  resetUsers: function (chatName, mess) {
     return new Promise((resolve, reject)=> {
       var rev = '';
       this.getChatInfo(chatName).then((data) => {
@@ -128,6 +128,22 @@ let userCheck = {
             console.log('change set');
           }
         });
+      });
+    });
+  },
+
+  addUser: function (user, password) {
+    let id = 'userTest';
+    let revID = '';
+    this.getChatInfo(id).then((data) =>
+      revID = data._rev);
+    this.getUsers(id).then((data) => {
+      let usersNow = data;
+      usersNow[user] = password;
+      testDB.insert({ _id: id, _rev: revID, users: [usersNow] }, function (err, body) {
+        if (!err) {
+          console.log('User ' + user + ' has been added successfully');
+        }
       });
     });
   },

@@ -17,6 +17,10 @@ let db = {
       testDB.get(docID, function(err, body) {
         if(!err) {
           var messageBody = body.users;
+          console.log('body is ', body);
+          let u = 'test23';
+          messageBody[u] = 'hello';
+          console.log('userIs', body.users.test2);
           console.log(messageBody);
           resolve(messageBody);
         } else {reject('DIDNT WORK');}
@@ -28,12 +32,14 @@ let db = {
   addUser: function (user, password) {
     let id = 'userTest';
     let revID = '';
+    let u = user;
     this.getChatInfo(id).then((data) =>
       revID = data._rev);
     this.getUsers(id).then((data) => {
       let usersNow = data;
-      usersNow[user] = password;
-      testDB.insert({ _id: id, _rev: revID, users: [usersNow] }, function (err, body) {
+      usersNow[u] = password;
+      console.log('users now is ', usersNow);
+      testDB.insert({ _id: id, _rev: revID, users: usersNow }, function (err, body) {
         if (!err) {
           console.log('User ' + user + ' has been added successfully');
         }
@@ -195,10 +201,10 @@ function countObjectKeys(obj) {
 //db.addChat(da, 'sexyKeenanScottyR');
 
 //db.removeChat('sexyKeenanScottyR', '17-4b030c7104458531e7c791f774d8866e');
-//db.removeChat('userTest', '1-53feee047bfec6973bd2c08c06091972');
+//db.removeChat('userTest', '13-55d7b812942255ea8e29250adb1cb5e8');
 //db.addMessage('sexyKeenanScottyR', 'SexyKeenan: I\'ll be there soon baby');
 //db.addChat(emptyData, 'userTest');
 
-db.addUser('test3', 'password');
+//db.addUser('test3', 'password');
 //db.getUsers('userTest');
 module.exports = db;
