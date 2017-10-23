@@ -12,6 +12,41 @@ let db = {
         });
   },
 
+  getUsers: function(docID) {
+    return new Promise((resolve, reject) => {
+      testDB.get(docID, function(err, body) {
+        if(!err) {
+          var messageBody = body.users;
+          console.log('body is ', body);
+          let u = 'test23';
+          messageBody[u] = 'hello';
+          console.log('userIs', body.users.test2);
+          console.log(messageBody);
+          resolve(messageBody);
+        } else {reject('DIDNT WORK');}
+      });
+    });
+
+  },
+
+  addUser: function (user, password) {
+    let id = 'userTest';
+    let revID = '';
+    let u = user;
+    this.getChatInfo(id).then((data) =>
+      revID = data._rev);
+    this.getUsers(id).then((data) => {
+      let usersNow = data;
+      usersNow[u] = password;
+      console.log('users now is ', usersNow);
+      testDB.insert({ _id: id, _rev: revID, users: usersNow }, function (err, body) {
+        if (!err) {
+          console.log('User ' + user + ' has been added successfully');
+        }
+      });
+    });
+  },
+
   //adds a chat to the Database
 
   addChat: function(data, chatName) {
@@ -153,14 +188,23 @@ var da = {
   },
 };
 
+var emptyData = { users: {
+  test1: 'fakePassword',
+}, };
+
+//function for counting key values pairs
+//written by Amiya Sahu
 function countObjectKeys(obj) {
   return Object.keys(obj).length;
 }
 
 //db.addChat(da, 'sexyKeenanScottyR');
 
-//db.removeChat('sexyKeenanScottyR', '2-9b561d602aacb0a8fdfffdcd5166b35d');
+//db.removeChat('sexyKeenanScottyR', '17-4b030c7104458531e7c791f774d8866e');
+//db.removeChat('userTest', '13-55d7b812942255ea8e29250adb1cb5e8');
+//db.addMessage('sexyKeenanScottyR', 'SexyKeenan: I\'ll be there soon baby');
+//db.addChat(emptyData, 'userTest');
 
-db.addMessage('sexyKeenanScottyR', 'SexyKeenan: I\'ll be there soon baby');
-
+//db.addUser('test3', 'password');
+//db.getUsers('userTest');
 module.exports = db;

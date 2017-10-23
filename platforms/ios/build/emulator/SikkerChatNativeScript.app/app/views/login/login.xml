@@ -1,3 +1,11 @@
 <Page>
-    <Label text="hello world" />
+  <StackLayout orientation="vertical">
+      <Image src="res://logo" stretch="none" horizontalAlignment="center" />
+      <TextField hint="userName" keyboardType="phone" autocorrect="false" autocapitalizationType="none" />
+      <TextField hint="Password" secure="true" />
+
+      <Button text="Sign in" />
+      <Button text="Sign up for SikkerChat" />
+
+    </StackLayout>
 </Page>

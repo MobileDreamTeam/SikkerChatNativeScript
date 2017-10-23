@@ -19,6 +19,8 @@
 		CD62955D1BB2678900AE3A93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD62955C1BB2678900AE3A93 /* main.m */; };
 		D7CB116711E448F69AD2539E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B301961F0EA0432CAA970C97 /* LaunchScreen.storyboard */; };
 		D8BF1153D19F3C2F0396955C /* Pods_SikkerChatNativeScript.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 790656BD327B0CC23ACE0A43 /* Pods_SikkerChatNativeScript.framework */; };
+		C4B9EF2B208E406B9AE9010A /* SikkerLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 756F0325570E44769CFAFF6A /* SikkerLogo.png */; };
+		844DDBBE929B42068F232243 /* textLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1977B05E1DC240169E671BEA /* textLogo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +57,8 @@
 		CDD59A261BB43B5D00EC2671 /* build-debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-debug.xcconfig"; sourceTree = "<group>"; };
 		CDD59A271BB43B5D00EC2671 /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = "build-release.xcconfig"; sourceTree = "<group>"; };
 		CDF4743E1BA4855C0087EA85 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = build.xcconfig; sourceTree = "<group>"; };
+		756F0325570E44769CFAFF6A /* SikkerLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SikkerLogo.png; path = "SikkerChatNativeScript/Resources/SikkerLogo.png"; sourceTree = "<group>"; };
+		1977B05E1DC240169E671BEA /* textLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = textLogo.png; path = "SikkerChatNativeScript/Resources/textLogo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +143,8 @@
 				A60A990DB5364C7A8B444A57 /* logo@2x.png */,
 				2233DF80C708463996DED2A1 /* logo@3x.png */,
 				35F0B6923B3149DF939264D9 /* GoogleService-Info.plist */,
+				756F0325570E44769CFAFF6A /* SikkerLogo.png */,
+				1977B05E1DC240169E671BEA /* textLogo.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -211,6 +217,8 @@
 				8A274344EA514CC78D8E68A0 /* logo@2x.png in Resources */,
 				69396F37FC53476EA61744E3 /* logo@3x.png in Resources */,
 				A79E75572A314F37B0747609 /* GoogleService-Info.plist in Resources */,
+				C4B9EF2B208E406B9AE9010A /* SikkerLogo.png in Resources */,
+				844DDBBE929B42068F232243 /* textLogo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
