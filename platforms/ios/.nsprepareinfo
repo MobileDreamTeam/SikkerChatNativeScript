@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"time": "Sun Oct 22 2017 23:19:08 GMT-0400 (EDT)",
+=======
+	"time": "Wed Oct 25 2017 21:54:31 GMT-0400 (EDT)",
+>>>>>>> 967c313f9af91cc0d3e92694b8b25f03c9fe1b37
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,

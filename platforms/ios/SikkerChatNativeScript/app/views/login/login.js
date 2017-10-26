@@ -5,8 +5,10 @@ exports.loaded = function() {
 };
 
 exports.signIn = function() {
+  var topmost = frameModule.topmost();
+  topmost.navigate("views/list/list");
 
-    alert("Signing in");
+  //alert("Signing in");
 };
 
 exports.register = function() {
