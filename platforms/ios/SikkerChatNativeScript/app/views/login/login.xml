@@ -1,16 +1,12 @@
-<Page>
-  <ActionBar title="SikkerChat">
-  <ActionItem tap="onDelete"
-      ios.systemIcon="16" ios.position="right"
-      text="delete" android.position="popup"/>
-</ActionBar>
+<Page loaded="loaded">
   <StackLayout orientation="vertical">
       <Image src="res://SikkerLogo" stretch="none" horizontalAlignment="center" />
+      <Image src="res://textLogo" stretch="none" horizontalAlignment="center"/>
       <TextField hint="userName" keyboardType="phone" autocorrect="false" autocapitalizationType="none" />
       <TextField hint="Password" secure="true" />
 
-      <Button text="Sign in" />
-      <Button text="Sign up for SikkerChat" class="link" />
+      <Button text="Sign in" tap="signIn"/>
+      <Button text="Sign up for SikkerChat" class="link" tap="register"/>
 
     </StackLayout>
 </Page>
