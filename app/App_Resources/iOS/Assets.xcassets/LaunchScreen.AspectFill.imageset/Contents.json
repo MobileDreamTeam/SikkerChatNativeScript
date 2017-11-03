@@ -2,12 +2,12 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "LaunchScreen-AspectFill.png",
+      "filename" : "SikkerLogo.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "LaunchScreen-AspectFill@2x.png",
+      "filename" : "SikkerLogo.png",
       "scale" : "2x"
     },
     {

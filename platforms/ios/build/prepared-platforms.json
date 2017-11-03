@@ -1,6 +1,7 @@
 {
     "nano": true,
     "nativescript-plugin-firebase": true,
+    "nativescript-pro-ui": true,
     "nativescript-theme-core": true,
     "nativescript-unit-test-runner": true,
     "tns-core-modules": true,

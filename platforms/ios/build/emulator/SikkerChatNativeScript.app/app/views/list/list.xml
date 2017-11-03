@@ -1,3 +1,23 @@
-<Page>
-
+import "tns-core-modules/ui/list-view";
+<Page loaded="loaded">
+<ActionBar title="Conversations"></ActionBar>
+  <GridLayout rows="*,60">
+  <ListView row="0" items="{{ people }}" itemTap="convo">
+    <ListView.itemTemplates>
+      <Label horizontalAlignment="left" verticalAlignment="center"/>
+    </ListView.itemTemplates>
+ </ListView>
+ <StackLayout row="1" orientation="horizontal">
+        <Button textWrap="true" width="50%" textAlignment="text">
+            <FormattedString>
+                <Span text="Home" fontWeight="Bold"></Span>
+            </FormattedString>
+        </Button>
+        <Button textWrap="true" width="50%" textAlignment="text">
+            <FormattedString>
+                <Span text="Convos" fontWeight="Bold"></Span>
+            </FormattedString>
+        </Button>
+    </StackLayout>
+ </GridLayout>
 </Page>

@@ -1,17 +1,9 @@
 {
-<<<<<<< HEAD
-	"time": "Mon Oct 30 2017 15:03:01 GMT-0400 (EDT)",
-=======
-<<<<<<< HEAD
-	"time": "Sun Oct 22 2017 23:19:08 GMT-0400 (EDT)",
-=======
-	"time": "Wed Oct 25 2017 21:54:31 GMT-0400 (EDT)",
->>>>>>> 967c313f9af91cc0d3e92694b8b25f03c9fe1b37
->>>>>>> 49119db17059f882938fd11e69a44b84f4f3d0a5
+	"time": "Wed Nov 01 2017 18:54:22 GMT-0400 (EDT)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": true,
-	"projectFileHash": "5a7dcbc29e7e22089305278fe3c7eacdc65b264e5b9bde93f7e0e020f05dcc7e",
-	"changesRequireBuildTime": "Sun Oct 22 2017 23:19:08 GMT-0400 (EDT)"
+	"projectFileHash": "204770fdc3caf067d23729f63329aca0df11722f2a7bc233c5ce697253b382e5",
+	"changesRequireBuildTime": "Wed Nov 01 2017 18:54:22 GMT-0400 (EDT)"
 }
