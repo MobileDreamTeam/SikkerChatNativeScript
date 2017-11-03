@@ -21,6 +21,10 @@
 		D8BF1153D19F3C2F0396955C /* Pods_SikkerChatNativeScript.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 790656BD327B0CC23ACE0A43 /* Pods_SikkerChatNativeScript.framework */; };
 		C4B9EF2B208E406B9AE9010A /* SikkerLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 756F0325570E44769CFAFF6A /* SikkerLogo.png */; };
 		844DDBBE929B42068F232243 /* textLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1977B05E1DC240169E671BEA /* textLogo.png */; };
+		16108B32EA554EC18EA36D96 /* TelerikAppFeedback.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C85AB3FCAA481A8F3026FE /* TelerikAppFeedback.framework */; };
+		77048F7587A2416C88ABE904 /* TelerikAppFeedback.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D3C85AB3FCAA481A8F3026FE /* TelerikAppFeedback.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		67574124CC314F3EA2C475AF /* TelerikUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4616AD5045EC44EAB9CDD9EB /* TelerikUI.framework */; };
+		848A8AC56609424BAB81FBB5 /* TelerikUI.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4616AD5045EC44EAB9CDD9EB /* TelerikUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +35,8 @@
 			dstSubfolderSpec = 10;
 			files = (
 				C9E8413A1DAF485BAAF54197 /* TNSWidgets.framework in Embed Frameworks */,
+				77048F7587A2416C88ABE904 /* TelerikAppFeedback.framework in Embed Frameworks */,
+				848A8AC56609424BAB81FBB5 /* TelerikUI.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -59,6 +65,8 @@
 		CDF4743E1BA4855C0087EA85 /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = build.xcconfig; sourceTree = "<group>"; };
 		756F0325570E44769CFAFF6A /* SikkerLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SikkerLogo.png; path = "SikkerChatNativeScript/Resources/SikkerLogo.png"; sourceTree = "<group>"; };
 		1977B05E1DC240169E671BEA /* textLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = textLogo.png; path = "SikkerChatNativeScript/Resources/textLogo.png"; sourceTree = "<group>"; };
+		D3C85AB3FCAA481A8F3026FE /* TelerikAppFeedback.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TelerikAppFeedback.framework; path = "$(SRCROOT)/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework"; sourceTree = "<group>"; };
+		4616AD5045EC44EAB9CDD9EB /* TelerikUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TelerikUI.framework; path = "$(SRCROOT)/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikUI.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +76,8 @@
 			files = (
 				A7CFEEFB0D5A4CBFA0885EE3 /* TNSWidgets.framework in Frameworks */,
 				D8BF1153D19F3C2F0396955C /* Pods_SikkerChatNativeScript.framework in Frameworks */,
+				16108B32EA554EC18EA36D96 /* TelerikAppFeedback.framework in Frameworks */,
+				67574124CC314F3EA2C475AF /* TelerikUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,6 +109,8 @@
 			children = (
 				B366A0FB1F4B4E38A77C18C4 /* TNSWidgets.framework */,
 				790656BD327B0CC23ACE0A43 /* Pods_SikkerChatNativeScript.framework */,
+				D3C85AB3FCAA481A8F3026FE /* TelerikAppFeedback.framework */,
+				4616AD5045EC44EAB9CDD9EB /* TelerikUI.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -437,6 +449,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-pro-ui/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-pro-ui/platforms/ios\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SikkerChatNativeScript/SikkerChatNativeScript-Prefix.pch";
@@ -463,6 +477,8 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/../../node_modules/tns-core-modules-widgets/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-pro-ui/platforms/ios\"",
+					"\"$(SRCROOT)/../../node_modules/nativescript-pro-ui/platforms/ios\"",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SikkerChatNativeScript/SikkerChatNativeScript-Prefix.pch";

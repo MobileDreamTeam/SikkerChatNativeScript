@@ -1,3 +1,13 @@
+import "tns-core-modules/ui/list-view";
 <Page>
-
+  <ListView items="{{ groceryList }}" >
+    <ListView.itemTemplates>
+      <template key="green">
+        <Label text="{{ name }}" style.backgroundColor="green" />
+      </template>
+      <template key="red">
+        <Label text="{{ name }}" style.backgroundColor="red" />
+      </template>
+    </ListView.itemTemplates>
+ </ListView>
 </Page>

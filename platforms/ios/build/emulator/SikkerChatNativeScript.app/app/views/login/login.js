@@ -1,17 +1,19 @@
-var frameModule = require("ui/frame");
+var frameModule = require('ui/frame');
 
 exports.loaded = function() {
-    console.log("hello");
-};
+    console.log('hello');
+  };
 
 exports.signIn = function() {
+  var topmost = frameModule.topmost();
+  topmost.navigate('views/list/list');
 
-    alert("Signing in");
+  //alert("Signing in");
 };
 
-exports.register = function() {
-    alert("Registering");
-};
+exports.register = function () {
+    alert('Registering');
+  };
 
 /*
 action bar code
