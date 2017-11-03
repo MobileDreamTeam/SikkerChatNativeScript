@@ -1,11 +1,12 @@
-<Page>
+<Page loaded="loaded">
   <StackLayout orientation="vertical">
-      <Image src="res://logo" stretch="none" horizontalAlignment="center" />
+      <Image src="res://SikkerLogo" stretch="none" horizontalAlignment="center" />
+      <Image src="res://textLogo" stretch="none" horizontalAlignment="center"/>
       <TextField hint="userName" keyboardType="phone" autocorrect="false" autocapitalizationType="none" />
       <TextField hint="Password" secure="true" />
 
-      <Button text="Sign in" />
-      <Button text="Sign up for SikkerChat" />
+      <Button text="Sign in" tap="signIn"/>
+      <Button text="Sign up for SikkerChat" class="link" tap="register"/>
 
     </StackLayout>
 </Page>

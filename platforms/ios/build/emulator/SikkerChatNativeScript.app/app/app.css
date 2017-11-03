@@ -1,8 +1,7 @@
 @import url('~/platform.css');
-
-
+@import '~/nativescript-theme-core/css/core.dark.css';
 Page {
-    background-color: Gray;
+    background-color: White;
     font-size: 30;
 }
 TextField {

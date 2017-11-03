@@ -1,5 +1,5 @@
 var dialogsModule = require("ui/dialogs");
-var observableModule = require("data/observable")
+var observableModule = require("data/observable");
 var ObservableArray = require("data/observable-array").ObservableArray;
 var page;
 
