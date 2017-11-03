@@ -1,3 +1,12 @@
-<Page>
-
+import "tns-core-modules/ui/list-view";
+<Page loaded="loaded">
+  <ActionBar title = "All SikkerChats">
+  </ActionBar>
+   <GridLayout>
+    <ListView row = "0" items="{{ people }}" itemTap="convo">
+      <ListView.itemTemplates>
+        <Label horizontalAlignment="left" verticalAlignment="center"/>
+      </ListView.itemTemplates>
+    </ListView>
+   </GridLayout>
 </Page>

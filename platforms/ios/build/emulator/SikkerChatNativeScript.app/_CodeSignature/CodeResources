@@ -82,31 +82,31 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		h9tGl0xbD+9XyCGqfbqXFxIPh+U=
+		k4a3dpYFJZd/zLKU3SYaq7m0Xtc=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		PX/XGc9kaqkj/sPZ0JMSrzQ2PXo=
+		AEeRHWiUypZgyFgJCPMrOeQLHbI=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
-		+l496C9/Fmo/tIyYZnuN55GI5jE=
+		L7F+h2mBr32xxuUQMg/cSCGg+qM=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Tj8mfEPm2m7wBJYY6uxI0rJc6QU=
+		cCOMNFoqhxpERvobKcvAG8H2Vk8=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		Ow+ajSZ9Duon6Jo5L6lkV9SV4tc=
+		S/JbXIJbt2+HgMSHERkg307Qq1s=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
-		tZlY7R0MxBdBZMWu4fbt2wF3tKI=
+		zpIyB8sgvEbHZtMb/X7KTbLEk7k=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
 		<data>
-		KssKEb/Mb7rvfjdByXxAmCpKK9E=
+		MyU7UlkV82OsdNThRgAv8yysjEY=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -122,15 +122,15 @@
 		</data>
 		<key>Frameworks/Protobuf.framework/Info.plist</key>
 		<data>
-		uLZKH1QQwFGYHvUViDuCb5ma2ZA=
+		dxl0Nd5Ejvso4WcffKolLyEeigY=
 		</data>
 		<key>Frameworks/Protobuf.framework/Protobuf</key>
 		<data>
-		jnJb28AnzOIRl3C28p3zHDuP1i0=
+		J35AHneCwpOVzdQkMkx6D6mTF+o=
 		</data>
 		<key>Frameworks/Protobuf.framework/_CodeSignature/CodeResources</key>
 		<data>
-		x3+xLpMvRe81CKQq2s6VYTNg9PM=
+		pCti9COMyNWOeSeCJ2DAjsvXDHQ=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
@@ -138,35 +138,59 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		C6W2LVF6elTjUXSUZ6ucy/Bq+QU=
+		sgn93oBnxsvsUGm4wmszEt4qqIY=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
-		EJV7PJ+s07MCCqBqLs0KuXCfqyw=
+		WE9Vdvya2N40ixOInxdv+gHSTrE=
+		</data>
+		<key>Frameworks/TelerikAppFeedback.framework/Info.plist</key>
+		<data>
+		eXE2rhz5Bqgtg8SPuVGkzyUuPA4=
+		</data>
+		<key>Frameworks/TelerikAppFeedback.framework/TelerikAppFeedback</key>
+		<data>
+		ZifjCIABN01FTmeaIGmUmXoFKCs=
+		</data>
+		<key>Frameworks/TelerikAppFeedback.framework/_CodeSignature/CodeResources</key>
+		<data>
+		npGGV8Mgi5mU8KpAF0pf2A2yYbo=
+		</data>
+		<key>Frameworks/TelerikUI.framework/Info.plist</key>
+		<data>
+		34CcZkKV+Alej8tHxRAXlYBsKFI=
+		</data>
+		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
+		<data>
+		11Fo4II5E9ehEyn8IWiZ07Pl3eM=
+		</data>
+		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
+		<data>
+		7PdLUPSGUPkmjjGA+/yPqHItta0=
 		</data>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<data>
-		7ivZzodVBopp3/X3gLCI+UIcudQ=
+		c35y6Cdoq2FKVtl+EZQ+XJNLQY8=
 		</data>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		+iBS0z0dxOPi9fQNHXaoa+bKzh0=
+		0TqyhanPm0Ja+u381Ayfb0TsgbQ=
 		</data>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<data>
-		X/4svPeODp2ddjqtQs7vDiBQMco=
+		TrPmn8QGh3eOKJDZdx9xAfE3Apk=
 		</data>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<data>
-		l0IZfcINWA5Ptaz9mkN7jOlfNLM=
+		WJLmJ3rs0oT7Xl6+f7MVkAp454w=
 		</data>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		75jH3dRo3bufKNsMHmAyDbKFLz0=
+		n5tWyHxnaqwjlcYXJ9sXgT0sHP8=
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		t6sviaxICpnBKFCkvJeueLt7Z90=
+		gWDc7Y3MZ+0WVQOxqSUWy73Pwco=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -174,7 +198,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BZe/afZGcE9Yf571glsebk19vVA=
+		4Nv0/72VwEsWCy0det3FcsFMeBE=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -242,7 +266,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		KEymlOoZx27LWEHHFT4sCQy4tLU=
+		JtvoQizi06np11wL4vuSdYr95po=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -250,11 +274,15 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		ZN13/f7xv7fA8KJ7/gHuhhw1SMI=
+		uzcl7Ii+dz7HDg+u1U12NTnoUiw=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>SikkerLogo.png</key>
+		<data>
+		bRNWgxT+p6gH6T2ib8mCzfixXEg=
 		</data>
 		<key>app/README.md</key>
 		<data>
@@ -262,19 +290,27 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		nHwWOpLbiDmwi9YXoxo/euChQ54=
 		</data>
 		<key>app/app.js</key>
 		<data>
-		nuTKLvQQqm5MvW3LlBdabDFS1NI=
+		VHNKwMeNKq8gtOw7cQVMl9bDvLo=
+		</data>
+		<key>app/cloudantConnection.js</key>
+		<data>
+		lS8AdvoNFDXLrS1KsCEESO5j+gg=
 		</data>
 		<key>app/db.js</key>
 		<data>
-		t8UYYEXTVkGrw0Nv4d03pQBmDYo=
+		co8PwDVsyem8ulTwOPy26D1Wci8=
 		</data>
 		<key>app/images/apple.jpg</key>
 		<data>
 		wDOnpIgpZ1tz9dHbU2D/1TpzfgE=
+		</data>
+		<key>app/loginDB.js</key>
+		<data>
+		jvNzQIn08SE0VVDsCtriGOK3MYo=
 		</data>
 		<key>app/package-lock.json</key>
 		<data>
@@ -306,7 +342,7 @@
 		</data>
 		<key>app/tests/example.js</key>
 		<data>
-		TUuJjj4uuus6DFTPR60xXxhDlAM=
+		Shs18Ec73CW6q2wd90eQH4WIDsc=
 		</data>
 		<key>app/tns_modules/ajv/.tonic_example.js</key>
 		<data>
@@ -4168,6 +4204,574 @@
 		<data>
 		bPKYKdhLsmY3FFZwhI2M57NRFGU=
 		</data>
+		<key>app/tns_modules/nativescript-pro-ui/LICENSE.md</key>
+		<data>
+		IeREeXFEQJEDNXYabkFkMP41yDY=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/README.md</key>
+		<data>
+		XEiSrp70dmG6r54E4o/ijD810SU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/android.d.ts</key>
+		<data>
+		Ny9Ew5QQm7TAvTva+3bqG0/QN+w=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/autocomplete-directives.d.ts</key>
+		<data>
+		MIPEFXwRqYFPMTtL14xpybqC42M=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/autocomplete-directives.js</key>
+		<data>
+		GqCt/DgBYJZBTPL6Uv3yQIry2R0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/autocomplete-directives.metadata.json</key>
+		<data>
+		+pkfAeewzR7v5f5J89ZSoUcat8k=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/index.d.ts</key>
+		<data>
+		YnQMHiIidVz35xM3IkZ45wP0Lwk=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/package.json</key>
+		<data>
+		n45Q6np4LKcMjgw/vlKKUbPMgow=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete-common.js</key>
+		<data>
+		uyROfrs5qDssrLxNl7uU+Nn+kVI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete-common.metadata.json</key>
+		<data>
+		mlNH/QwU1muGxZ2XNu5tx+LHCes=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete.js</key>
+		<data>
+		irjh3SgK9asquGnzg2XuJ03QX2M=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete.metadata.json</key>
+		<data>
+		29PtmudhzKigLcrTq7MRtW2SmtY=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/index.d.ts</key>
+		<data>
+		ANzlGeCMHu4BHkPBMjAFVzetWp4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/package.json</key>
+		<data>
+		Ea7Zi6MuNITsl8EDnIzGWLY0lAc=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/calendar-directives.d.ts</key>
+		<data>
+		aUG9LMBsVVOcqyBnCBThzvnpKew=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/calendar-directives.js</key>
+		<data>
+		2+tR0/2YS7Fyi1so12Xi9/2DBxw=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/calendar-directives.metadata.json</key>
+		<data>
+		AA1nGtNTM2le8IYaME8oO90mEps=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/index.d.ts</key>
+		<data>
+		MF5vyAHI5BBAX3zVBiwNKWfx6Co=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/index.js</key>
+		<data>
+		PK6PirGD1sb7kxow8l876xUMVOg=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/index.metadata.json</key>
+		<data>
+		2ipVJSGL5Dl/ti1W+bbPgjTdhxc=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/package.json</key>
+		<data>
+		x0hIWhrioX71lFqNWEAkfRoRZ6Q=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar-common.js</key>
+		<data>
+		y5wEo9VQzxdD1KISSAzsudSxW88=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar-common.metadata.json</key>
+		<data>
+		okODfRtgzQSx14tjokHIMiZgGgI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar.js</key>
+		<data>
+		OCKw71SbyWPOiTlQs5BWm6fhGkM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar.metadata.json</key>
+		<data>
+		ofDoXbFs7WxujFFWKtI5kDzUJZs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/index.d.ts</key>
+		<data>
+		fj3VQ1+f0C/Jofo2r8kp5upmUO8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/package.json</key>
+		<data>
+		Rw+F93J/z6yWyiMc1KtdxClMdyc=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/chart-directives.d.ts</key>
+		<data>
+		k69rx/IvNTG6rK3sv0SRyvvd16I=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/chart-directives.js</key>
+		<data>
+		nwc8OvqRftEKZiKN1oxFGN2U/G0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/chart-directives.metadata.json</key>
+		<data>
+		roiIsXdmTtf5Cs2bjS5//j83rHE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/index.d.ts</key>
+		<data>
+		FpGDr1XlGyfEC2IR1mn9pG1SkrI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/index.js</key>
+		<data>
+		JrpT3Wvx289ZiMTOT00Nc3bOF7E=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/index.metadata.json</key>
+		<data>
+		kGwxvU9h3EM1n9bBFj6Ja/g+WRI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/package.json</key>
+		<data>
+		iloTy1EhobSv1p36YNJB4OxZ4yI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart-common.js</key>
+		<data>
+		ZBK3+HjrOeR6N32iNPf2X6qONNc=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart-common.metadata.json</key>
+		<data>
+		CMJn9k9+ZMdyohBcuSlX0Lr2Jzg=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart.js</key>
+		<data>
+		8b0WcXh2Z0QehlpfWjNVBrBEgt0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart.metadata.json</key>
+		<data>
+		cJboTyvr4QxzWFj1r1TtN4dFfPs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/index.d.ts</key>
+		<data>
+		+Myflc5eNP5/RwnShaVbN0TWg3E=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers-common.js</key>
+		<data>
+		UYBVnIR5DL4kjy9Mz22qSL/UgQM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers-common.metadata.json</key>
+		<data>
+		O7GVf2oKgKCr9uVyxeqVpR01AwA=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers.js</key>
+		<data>
+		VFlRea30tiU6iaIbDZv7pmzdZLg=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers.metadata.json</key>
+		<data>
+		9Utz+MSVwLuQ0CUsZJ4pR0x4gQ4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-date-helper.js</key>
+		<data>
+		BFKDNRNIM/W2cknmxaA9c1Ci/44=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-date-helper.metadata.json</key>
+		<data>
+		kPBrOr+i+IXMUuPEPUNGF+sYM9E=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-event-data-common.js</key>
+		<data>
+		bvikMOKQ8vx2kFB84SxNoZtEY5Y=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-event-data-common.metadata.json</key>
+		<data>
+		0QXi3WNrMWc1qeFeRe1tdHKOR4s=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-public-enum.js</key>
+		<data>
+		YQIRxtSdn/8k7XJGSHRwF2OAiP4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-public-enum.metadata.json</key>
+		<data>
+		zbwQlIIDOiGxk5Q/ASvU91PK7qE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/package.json</key>
+		<data>
+		EVn1dpSVdtfvGGuCqDOyLyDwu/g=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation-common.js</key>
+		<data>
+		sqhfyU3nI7WlJsc4h5otps7gud8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation-common.metadata.json</key>
+		<data>
+		vHc4strdBygrI1/cZvtuJDrxk4U=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation.js</key>
+		<data>
+		MLRQ2u60miEMFQmP/PDnFfMvnoE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation.metadata.json</key>
+		<data>
+		XR6h/tSonqtgsPz+l+bciG6IiR4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid-common.js</key>
+		<data>
+		iHTnAtFL4eoduZusA7+FbnbUbEY=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid-common.metadata.json</key>
+		<data>
+		kyTtGBLqGtRBB3tt4YivelF6AxE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid.js</key>
+		<data>
+		1SACxZuOvyychudyxVENGIMMGRE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid.metadata.json</key>
+		<data>
+		WQS4ZCJEPMDxk9dgw7LtIlkZGVQ=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-label-style-common.js</key>
+		<data>
+		X0UVOlusvEtWfk8wRSJX9tG9VqU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-label-style-common.metadata.json</key>
+		<data>
+		o5mfc2zPPRwufuLTYvrOkiP8YvE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-palette-common.js</key>
+		<data>
+		92CDG/GZsmUs3cad4seymWNrODE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-palette-common.metadata.json</key>
+		<data>
+		qzbdWifza90Xwn4NVUYKAV+5tH4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball-common.js</key>
+		<data>
+		vHah6a8NCfaHT23EyCttr5jIVDE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball-common.metadata.json</key>
+		<data>
+		/QL80i1Ej7CkrxKHaBBYTZ2yVoo=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball.js</key>
+		<data>
+		2F3v3wj+AoVOqQQuu/iMuUZbeL4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball.metadata.json</key>
+		<data>
+		vT2jphXtCr3xDASHdW7nsl7to8s=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis-common.js</key>
+		<data>
+		bRtHHRUE6T0L+nF1ow+xwIofy08=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis-common.metadata.json</key>
+		<data>
+		jey3o2ZG+PD0jOh7N2UP8TUw/CQ=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis.js</key>
+		<data>
+		660dWwPKt0rg16tcMV8Psx6lQQU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis.metadata.json</key>
+		<data>
+		7lzXtXG1njZhWCaSA22phvknyJ4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view-common.js</key>
+		<data>
+		scAO9FVlRdGQuwtpZYTJzNri3Do=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view-common.metadata.json</key>
+		<data>
+		oMREjirJNLVQLKMwQu2Pk6KGtdk=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view.js</key>
+		<data>
+		gzRAtiLOCJ+XDdrviDJGtMK0pds=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view.metadata.json</key>
+		<data>
+		8EbG/83QCo7C26tQxYgVKnndSDU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series-common.js</key>
+		<data>
+		ODcnkvzztV1BBe292Tv79WHN6SY=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series-common.metadata.json</key>
+		<data>
+		iXG1Vgw/PQh87B/12JsjhfPXrLI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series.js</key>
+		<data>
+		qpTtl8bqE3zJjJApXsIexR5uvxs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series.metadata.json</key>
+		<data>
+		Olnqlkl7gv52JzmkBA6WslEk6+U=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/dataform-directives.d.ts</key>
+		<data>
+		QXXOLewEdX3W4Cb7u1XFXNdz3LY=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/dataform-directives.js</key>
+		<data>
+		BqlG8mKib2tYytjUBVJTrY24eM0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/dataform-directives.metadata.json</key>
+		<data>
+		gTZEMmRxV0e/ivQG5ZNf8DFWYXc=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/index.d.ts</key>
+		<data>
+		RFjjZ5jvKGiyNaDantGkr+R1wjQ=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/index.js</key>
+		<data>
+		TTyXs017xzGuc57PtSsjoleHFuI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/index.metadata.json</key>
+		<data>
+		iRs9FSRerphOUf5I1fNgD+lqdvs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/package.json</key>
+		<data>
+		wq3+io2X1w4/lVfgP9cNbZpbSz8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform-common.js</key>
+		<data>
+		MTUjZ8p33o9kz0wS7uwriSlhhmI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform-common.metadata.json</key>
+		<data>
+		d/mpDWT3N3GD3tfTlHGZ2mw5oDM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform.js</key>
+		<data>
+		0AOFCUhsDztTtrCVCkbyvEL3HWo=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform.metadata.json</key>
+		<data>
+		UjZRSRTxwsmkj9fOC6gCqdSdNdc=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/index.d.ts</key>
+		<data>
+		H4QLIJCa70YPoflZEyFa/dDuMo8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/package.json</key>
+		<data>
+		/EO3A6haOVUJJyM0tUd7jElyh6g=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback-common.js</key>
+		<data>
+		KUtEpF41UMDarnEsgkpcmqkMBUM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback-common.metadata.json</key>
+		<data>
+		FnkvT3UN8TqR+pykpBqpEdA7F9A=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback.js</key>
+		<data>
+		bqlUpPQjTaBuXSDYxp4+yNOXbuI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback.metadata.json</key>
+		<data>
+		bi1dQkEyQ7uUguo527BByWQWBYU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/index.d.ts</key>
+		<data>
+		dGAdK6wXMAMiVtySEL/nozVk42Y=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/package.json</key>
+		<data>
+		FNooKy0dX08QVbte7Xaz8N1bkL4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/gauges-directives.d.ts</key>
+		<data>
+		KAJ+aiQ4BNiqLfiXN3QHjVJmaNI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/gauges-directives.js</key>
+		<data>
+		s+sFqeF1JaUXLv6RqGwZSS5wDxQ=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/gauges-directives.metadata.json</key>
+		<data>
+		x6NfCA/uXM1UFTJVs/qIQpLBYY8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/index.d.ts</key>
+		<data>
+		IY+/dkp1idui33M4HiwOAK+T3dM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/package.json</key>
+		<data>
+		d8kMD8GGE72n7IG0sjw/rRK9UKs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges-common.js</key>
+		<data>
+		GceZ0r2gvtkxntUHJqI1K7/VX8w=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges-common.metadata.json</key>
+		<data>
+		S/SRyt+SNlevC08NXb9q5gAnbbk=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges.js</key>
+		<data>
+		4C4910mnx6b94o3mB8NNtpGkheg=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges.metadata.json</key>
+		<data>
+		QXKMql/LjSAyDXQUIUNuLnhrUwU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/index.d.ts</key>
+		<data>
+		sf2snCgGSuaHSpk1ZjOMVQCvXxE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers-common.js</key>
+		<data>
+		UYBVnIR5DL4kjy9Mz22qSL/UgQM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers-common.metadata.json</key>
+		<data>
+		ZdRlK69Zv8ZBNLDV1d6fDPYiSpw=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers.js</key>
+		<data>
+		Cd+CiVPQk285EKaczhgBA0Mu0rU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers.metadata.json</key>
+		<data>
+		giIQpEkqzBL7A1yjTewPPEWV4kU=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/package.json</key>
+		<data>
+		ZjYvBaovwhnnxL6aNAPImBGpj8Q=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/ios.d.ts</key>
+		<data>
+		eNfOhyATzY23HLcaSxhku0cOXTE=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/index.d.ts</key>
+		<data>
+		8/7GOgqDmbTVnVbjcpYAurlx7Ng=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/index.js</key>
+		<data>
+		/Bedm8IJqQqqn9dcMx0mhyTOnq0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/index.metadata.json</key>
+		<data>
+		ZdyG30ZfLqyY4w5BEpCZnB9dlg8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/listview-directives.d.ts</key>
+		<data>
+		OuAUw/v1IxX4rI5dhP1tlN3++j0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/listview-directives.js</key>
+		<data>
+		BSuIWctdvSa/7Hsq1qNSQROIiVs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/listview-directives.metadata.json</key>
+		<data>
+		uDdoD4U2rDYELRgrn2lRi0b1PZs=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/package.json</key>
+		<data>
+		qDuj8pZ3dampScOMdR9rGVRSh9Q=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/index.d.ts</key>
+		<data>
+		SO7GdKAH1QVhxwsWZ1EqwqHVYPw=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview-common.js</key>
+		<data>
+		oEOzpYwes3q+MradcVV72kwfNII=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview-common.metadata.json</key>
+		<data>
+		Sgjtll78peaEYxjQGFURaTrkKaI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview.js</key>
+		<data>
+		EEvaxmlZYkHDSaC/1B03zvCf6lg=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview.metadata.json</key>
+		<data>
+		IPl7Krmp13aEDtZqg3WHs0REUPM=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/listview/package.json</key>
+		<data>
+		7gxFgexRBDmpi38M+BAlYN1mZzY=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/package.json</key>
+		<data>
+		D/p0OaH4YJIFfKSY5ics+eTmHo4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/references.d.ts</key>
+		<data>
+		RZ13sVzSxI2SI1X4lEdyBhoajDI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js</key>
+		<data>
+		U/bSONHxmhnOSNaX3sfr83UlcY4=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/index.d.ts</key>
+		<data>
+		LIl+G7eStqY1TmWgHVySj62TVPQ=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/index.js</key>
+		<data>
+		LRYFCpvH5Jk8yxNfvAPt1zzU2+0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/index.metadata.json</key>
+		<data>
+		45IAL2tPtbC3+Bk4M6zqc+x44Lo=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/package.json</key>
+		<data>
+		cVLjLuvH4WgHhVeuPS1GzIdH34Y=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/side-drawer-directives.d.ts</key>
+		<data>
+		dSRT7h1tLaOu/Pedlt8EMfCAvUI=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/side-drawer-directives.js</key>
+		<data>
+		Lmnxd1iWh+YeUhxa5AcZV0BAuLw=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/side-drawer-directives.metadata.json</key>
+		<data>
+		Tq9zzub3kcXUjKof4L5+hoVkg94=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/index.d.ts</key>
+		<data>
+		oM9FwyLkQDMI/KVJyrAJ90e7bd8=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/package.json</key>
+		<data>
+		Ioq4R6C3uz4y4TViY+uxIZutq6E=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer-common.js</key>
+		<data>
+		NE3P+hjXi19qfkGH452/MrPc5q0=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer-common.metadata.json</key>
+		<data>
+		nqpSzlJpgVtGdDw6wiKht4A2Q3I=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer.js</key>
+		<data>
+		VU+8/b/LJerS3FRh7iJNQ4Pq864=
+		</data>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer.metadata.json</key>
+		<data>
+		4XPlblkMjjbMH2wzNGQv4hY5AnM=
+		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
 		SxyQh8WMJmydecZFBpcKcuXsv2o=
@@ -7436,29 +8040,37 @@
 		<data>
 		e9QxG+YQWVedTF7kapy8A5PNafA=
 		</data>
+		<key>app/views/chat/chat.css</key>
+		<data>
+		0QwvKafX/ODGnjdbOUkKcduys+k=
+		</data>
+		<key>app/views/chat/chat.xml</key>
+		<data>
+		YVLofFitwSb9IDsEJqyY0+bmqQ8=
+		</data>
 		<key>app/views/list/list.css</key>
 		<data>
-		oj9A1C7rSjomDkauYgATG6aaHIg=
+		XbDL958v5CMaeQb9RLCu8SWd/wU=
 		</data>
 		<key>app/views/list/list.js</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		JEtMUb3cbVhctWLu4Rb36VFtUuU=
 		</data>
 		<key>app/views/list/list.xml</key>
 		<data>
-		ZtVXvC1qYVsx2K5oWwpAqlIfwns=
+		amvhAxs9ZwSoqtdz2hYus8LdQoM=
 		</data>
 		<key>app/views/login/login.css</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		qhPwrNNayhvPWJMNzBBz9PAzGeE=
 		</data>
 		<key>app/views/login/login.js</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		dgXAmNOe3USbM/ebC6Lyi4CSOmI=
 		</data>
 		<key>app/views/login/login.xml</key>
 		<data>
-		3z7ist1f71H6HI28Yb0c8Ozi5e8=
+		gJtoXgqWrC43OEgZYjsXHYLx1rc=
 		</data>
 		<key>app/views/register/register.js</key>
 		<data>
@@ -7492,6 +8104,10 @@
 		<key>logo@3x.png</key>
 		<data>
 		HstAZ5qHuTp+N8V98VqtZAdJJj8=
+		</data>
+		<key>textLogo.png</key>
+		<data>
+		OOSoiIE1ajYKPyidV1xEFZmE4NE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -7709,77 +8325,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h9tGl0xbD+9XyCGqfbqXFxIPh+U=
+			k4a3dpYFJZd/zLKU3SYaq7m0Xtc=
 			</data>
 			<key>hash2</key>
 			<data>
-			w4+uiMZllNEXDzKP9w5rFaKbjavq3bwmOcbN8F4/TiE=
+			TpphygDv6c1TtIpPUGJuOIDS982Vg/nV2htc4pCO4dw=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PX/XGc9kaqkj/sPZ0JMSrzQ2PXo=
+			AEeRHWiUypZgyFgJCPMrOeQLHbI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JXpazkvq6qYvLpCsJKifVuctgmU9ek979dt0V/AJdzA=
+			fXm8p5RN/jaJz6H2I46Zc1VvOHNKCFRUwOwO/lq335E=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+l496C9/Fmo/tIyYZnuN55GI5jE=
+			L7F+h2mBr32xxuUQMg/cSCGg+qM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4GrmUrp+zSsdQjLtJs8n+/IKXFZCdA0xcFFoqq57NvI=
+			tH6LSQ3OaHaaQA9IwIy7wezdF2ZiDtuv0bgNRqZJUSk=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tj8mfEPm2m7wBJYY6uxI0rJc6QU=
+			cCOMNFoqhxpERvobKcvAG8H2Vk8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RsVh99GyicEyn1cMrRJbaQaHw3gNVLzIEDM2nfh9jMs=
+			5fDoUOrZPH34Q+TV0kXhJufaRKaHhEYGg1cZO0X6cJU=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ow+ajSZ9Duon6Jo5L6lkV9SV4tc=
+			S/JbXIJbt2+HgMSHERkg307Qq1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			858HIoAjcChOW2TwbYUpBaLT+RRsLhj4YcgR+B7z79c=
+			oVnfvsm4vyhWdLK1T67bqZiiLpzGvYnrx4/QYJGIRVU=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tZlY7R0MxBdBZMWu4fbt2wF3tKI=
+			zpIyB8sgvEbHZtMb/X7KTbLEk7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			82XG+h0BkRlGbb7ZlhVp1TB96xmpKXvCRyiLXaISjD4=
+			9q8MdolSmqzPwE10CCOR1qMQX/J5/vue4OoHgdUCD4w=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KssKEb/Mb7rvfjdByXxAmCpKK9E=
+			MyU7UlkV82OsdNThRgAv8yysjEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XaYD27yD2edkUuRBfnKZZwmu2NK2zwl7MVC8xBK/6iM=
+			sv2paESOtwZkUHAhoM9pOe/tWIaf9f7P2jEzUoBlDBg=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -7819,33 +8435,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uLZKH1QQwFGYHvUViDuCb5ma2ZA=
+			dxl0Nd5Ejvso4WcffKolLyEeigY=
 			</data>
 			<key>hash2</key>
 			<data>
-			khOpr/xCOkJEuid9oQTibAzOnuqEWkhPWphNPvbUd8w=
+			GJvqi6VoO9V7wGuzdbtfVYsh0X5pjwI0zex1V/KYL5o=
 			</data>
 		</dict>
 		<key>Frameworks/Protobuf.framework/Protobuf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jnJb28AnzOIRl3C28p3zHDuP1i0=
+			J35AHneCwpOVzdQkMkx6D6mTF+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			n0QXBpCy4fe3NsbY3Xm5DrcicC9OeDjPu0iM8uXCS9I=
+			CdeRgO7UlkLQPxfb8aBbz5RIvFFPPiwY8Oxq8QNfsd0=
 			</data>
 		</dict>
 		<key>Frameworks/Protobuf.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x3+xLpMvRe81CKQq2s6VYTNg9PM=
+			pCti9COMyNWOeSeCJ2DAjsvXDHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VoxezWqJbgimp4FfscDbWkS+pJHnIj2WqFqNzjxcF8o=
+			8GVNLkyY1s8qG6+3yPJHZXHCZPh9pqsQu5XxDcpK9DE=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
@@ -7863,88 +8479,154 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C6W2LVF6elTjUXSUZ6ucy/Bq+QU=
+			sgn93oBnxsvsUGm4wmszEt4qqIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			B91GOEafoZiO0jK20YqObwxV5J2oDs0pIzGmChf47KM=
+			t6pMopEMtIFOi+jbEcFlFeXqx1mH+ZWQMXue/sG7u3o=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EJV7PJ+s07MCCqBqLs0KuXCfqyw=
+			WE9Vdvya2N40ixOInxdv+gHSTrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			SIjrGkfG3U1fTJM7Vscdm4QDl7nu9dJQnR5qPHApdLU=
+			44rnBMnUEQdHMVGchBOx/87lsH6b89ualvZQYHUoezM=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikAppFeedback.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eXE2rhz5Bqgtg8SPuVGkzyUuPA4=
+			</data>
+			<key>hash2</key>
+			<data>
+			8T8lEykuJMLrycmHw+Wjwoe8X3x1F8VFZxFETUk7Ddc=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikAppFeedback.framework/TelerikAppFeedback</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZifjCIABN01FTmeaIGmUmXoFKCs=
+			</data>
+			<key>hash2</key>
+			<data>
+			4KtFsaw+wQV8tzvvkkmn1WSDoLO7YbPulPwRexy0SX8=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikAppFeedback.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			npGGV8Mgi5mU8KpAF0pf2A2yYbo=
+			</data>
+			<key>hash2</key>
+			<data>
+			aJ7gZ830nAJLG/zSpP4NIiinb762J7f7CSD+KXTHKQY=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			34CcZkKV+Alej8tHxRAXlYBsKFI=
+			</data>
+			<key>hash2</key>
+			<data>
+			b6OtMBAccf+sabszm9lrzE+qgtWXH4sXXnelhP+g7II=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			11Fo4II5E9ehEyn8IWiZ07Pl3eM=
+			</data>
+			<key>hash2</key>
+			<data>
+			tKxHoEka+yBbwbsDPhjBTVb3hhS0G5XUR+HcbbE0300=
+			</data>
+		</dict>
+		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PdLUPSGUPkmjjGA+/yPqHItta0=
+			</data>
+			<key>hash2</key>
+			<data>
+			QIGFjpSd1afKGX6wY1IiIv/HZFVTcuj/QfvQXmOoyGc=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7ivZzodVBopp3/X3gLCI+UIcudQ=
+			c35y6Cdoq2FKVtl+EZQ+XJNLQY8=
 			</data>
 			<key>hash2</key>
 			<data>
-			c5/T5xZC9wBzePgMi9n4dsZ9EWAH4zZdx31QJS5x1tU=
+			Jyc0mAnSRlUB5loqLOf0QlhUw/XYIzDj21sgzSJa1mw=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+iBS0z0dxOPi9fQNHXaoa+bKzh0=
+			0TqyhanPm0Ja+u381Ayfb0TsgbQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Ay5BaianWeWhMiKrPRi23RgATn34G+eh42wrTLjKSA=
+			1wCZtms0cvV0RDibV4K7OIc0iMXp+5Nc2MmV28kBbsw=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X/4svPeODp2ddjqtQs7vDiBQMco=
+			TrPmn8QGh3eOKJDZdx9xAfE3Apk=
 			</data>
 			<key>hash2</key>
 			<data>
-			/MvXu70iwjNm7anrbe/U5OxNwWYnqg3Mpn1kFnJ2DAE=
+			VV/hFX7ieZaB5o92XZJuABM2ClVtKybGvoC1SwWkFM0=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l0IZfcINWA5Ptaz9mkN7jOlfNLM=
+			WJLmJ3rs0oT7Xl6+f7MVkAp454w=
 			</data>
 			<key>hash2</key>
 			<data>
-			WzWA8en/I62LN7DMX9Fd746MSYV6QpyerSHP7v1migU=
+			RWOJ1i0mIuFaBMJlR8hTQk0ie/qrCTxXi+8zy1sfP7E=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			75jH3dRo3bufKNsMHmAyDbKFLz0=
+			n5tWyHxnaqwjlcYXJ9sXgT0sHP8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Le9OsSVwDpfWyiVoKn8Hiu9zeY9k1+g2s6093vT3DM=
+			15srRsizP1h3IE7M/tCZFJSwxda9Fzr0ulFWnHDdiEw=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t6sviaxICpnBKFCkvJeueLt7Z90=
+			gWDc7Y3MZ+0WVQOxqSUWy73Pwco=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Z8OXFZR438RaIKZoeZsqKIYhrZN3swguduufpS08cg=
+			CUvJAQ/vtift2f813v5wvFPYC65zKnOjti7o6VrCCNo=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -8138,11 +8820,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KEymlOoZx27LWEHHFT4sCQy4tLU=
+			JtvoQizi06np11wL4vuSdYr95po=
 			</data>
 			<key>hash2</key>
 			<data>
-			9qoYGVcDWQQn5K9kWsr0xG5sb6wb7gm0/NJGYfJuLQ0=
+			B32CSP+7o60Pdejx6xAQv73xbgLUqqyLLBZxAyn3eBk=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -8160,11 +8842,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZN13/f7xv7fA8KJ7/gHuhhw1SMI=
+			uzcl7Ii+dz7HDg+u1U12NTnoUiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			gQFVDEWHdczlfshY6TV47vOXWeMVBgLxdiSZFl+N9qk=
+			kTF4GsFvdFdJClOunvkYfzbbMd0Y8qSXUwxf2ljL16U=
+			</data>
+		</dict>
+		<key>SikkerLogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bRNWgxT+p6gH6T2ib8mCzfixXEg=
+			</data>
+			<key>hash2</key>
+			<data>
+			hDaLdwziXO9u6GXFBQSSglKfTps6othh1Tj3VkUl/p4=
 			</data>
 		</dict>
 		<key>app/README.md</key>
@@ -8182,33 +8875,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			nHwWOpLbiDmwi9YXoxo/euChQ54=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			kLrzGpSDN1fsX4KLpMscFyWubxvdNbpOWAauFcODGhc=
 			</data>
 		</dict>
 		<key>app/app.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nuTKLvQQqm5MvW3LlBdabDFS1NI=
+			VHNKwMeNKq8gtOw7cQVMl9bDvLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			MEbeHKuGOGS/eW5cXzKZNhEf5IGL9TqmCsBOwBbA9KA=
+			IizH1OHQ+V1kqj7sU1boPlH1loqvN9jZugBRYwuTm9U=
+			</data>
+		</dict>
+		<key>app/cloudantConnection.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lS8AdvoNFDXLrS1KsCEESO5j+gg=
+			</data>
+			<key>hash2</key>
+			<data>
+			K6OVh9KNHbaVWXms7ocEXVr5YZ/D97oDo59a7w0z5V0=
 			</data>
 		</dict>
 		<key>app/db.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t8UYYEXTVkGrw0Nv4d03pQBmDYo=
+			co8PwDVsyem8ulTwOPy26D1Wci8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JPCXFPY8iuPv3Zst1pIBKKqK1BQVK7q+sF+LOTXbRvs=
+			vAtpFCuj5/6bTPkFVXr2Vk8o+AL641TRyprL958ujE8=
 			</data>
 		</dict>
 		<key>app/images/apple.jpg</key>
@@ -8220,6 +8924,17 @@
 			<key>hash2</key>
 			<data>
 			WY9OwIgKgwvtsvXcQSgKqhhHK8ceSDLqu6UWkuNnruM=
+			</data>
+		</dict>
+		<key>app/loginDB.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jvNzQIn08SE0VVDsCtriGOK3MYo=
+			</data>
+			<key>hash2</key>
+			<data>
+			5UgH/FzFeVns0OQcqMFtHYDNwr6fISKSj5/+myNSGt0=
 			</data>
 		</dict>
 		<key>app/package-lock.json</key>
@@ -8303,11 +9018,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TUuJjj4uuus6DFTPR60xXxhDlAM=
+			Shs18Ec73CW6q2wd90eQH4WIDsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ITw/UVCDyBoAJUV6BHhhy2fpMDY7kiiPPeWeo0Bjrno=
+			2VslCwnQW9NCtxGpa/56C1pK5VvGLScyF/EUQybh05Y=
 			</data>
 		</dict>
 		<key>app/tns_modules/ajv/.tonic_example.js</key>
@@ -18925,6 +19640,1568 @@
 			zLFAeY7DUDrNN2lMpvW/hc6++2Ncfb474sgKPzH2qT8=
 			</data>
 		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/LICENSE.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IeREeXFEQJEDNXYabkFkMP41yDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			32Q/Xu9ZptWCPXMR16rsBTQ8iUo6kMoNvrqb+c4yNzM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XEiSrp70dmG6r54E4o/ijD810SU=
+			</data>
+			<key>hash2</key>
+			<data>
+			BtghD+mSNyu4XA5dg8t4NcDAYCjcXv6oUOFI6yRazmA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/android.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ny9Ew5QQm7TAvTva+3bqG0/QN+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			/+Yh4CVYSSH5ah/Ceq1TkHE1O1DvRJZVBii0iEy7fLo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/autocomplete-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MIPEFXwRqYFPMTtL14xpybqC42M=
+			</data>
+			<key>hash2</key>
+			<data>
+			n9EGFo55Vpy43m2tcal2BbYDVd+ho4HJsn177b+2uiM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/autocomplete-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GqCt/DgBYJZBTPL6Uv3yQIry2R0=
+			</data>
+			<key>hash2</key>
+			<data>
+			1/6l3FYScsPQsHs37wzXOsQyPog03nqrF8F+FL6hyu4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/autocomplete-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+pkfAeewzR7v5f5J89ZSoUcat8k=
+			</data>
+			<key>hash2</key>
+			<data>
+			qkYEukRh4Fx5EwFslysN9A3NAWYQyvZ1TI9Hq59iE2c=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YnQMHiIidVz35xM3IkZ45wP0Lwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			rK9y9QwLYRtd7G8KGgiFeK87wJGM7Ij1+CfNziF507Q=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n45Q6np4LKcMjgw/vlKKUbPMgow=
+			</data>
+			<key>hash2</key>
+			<data>
+			GZ7JHUK6rgI8uaJBP1gDCaFSF6q/YkLqTvf3Q7xtB/8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uyROfrs5qDssrLxNl7uU+Nn+kVI=
+			</data>
+			<key>hash2</key>
+			<data>
+			bbHZAurHvJ+wPeAm//R/5VQr2/I5C2/0DxxTvMT2gWQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mlNH/QwU1muGxZ2XNu5tx+LHCes=
+			</data>
+			<key>hash2</key>
+			<data>
+			OiczeVY/9RnoH9qnt/otiXsMJupL83z+Dn2P22ABYl8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			irjh3SgK9asquGnzg2XuJ03QX2M=
+			</data>
+			<key>hash2</key>
+			<data>
+			uiW7hxmSuGainRvjatA+ORkFNy/6ZIszA0pPy8wGh1Y=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/autocomplete.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			29PtmudhzKigLcrTq7MRtW2SmtY=
+			</data>
+			<key>hash2</key>
+			<data>
+			SoACvtuigLiv9vg2OHJ8Vfffm9jswpfOuQ1Euc88JGk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ANzlGeCMHu4BHkPBMjAFVzetWp4=
+			</data>
+			<key>hash2</key>
+			<data>
+			pIlsCOQiVERdERQqcBsFOjv2UqwfSQtTp3s1v3ZnG/A=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/autocomplete/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ea7Zi6MuNITsl8EDnIzGWLY0lAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			AG46HlaM28n39p9h5Ic9N80bfJ5s/DlpbWtLRBUNNCY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/calendar-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aUG9LMBsVVOcqyBnCBThzvnpKew=
+			</data>
+			<key>hash2</key>
+			<data>
+			rwFWGR8KO1grH6BxaeVHil9ib9G1rT1cssZ6jyrv2IA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/calendar-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2+tR0/2YS7Fyi1so12Xi9/2DBxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ls/zpyY+ARRPLN/TwCZ+gKWKGJRI6aMc4erhKNdrQbw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/calendar-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AA1nGtNTM2le8IYaME8oO90mEps=
+			</data>
+			<key>hash2</key>
+			<data>
+			T+OnFm8hbVz71ndGWWrkXPTqpnfe7xHenlBvFivDxS8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MF5vyAHI5BBAX3zVBiwNKWfx6Co=
+			</data>
+			<key>hash2</key>
+			<data>
+			RDJuIhnv33VX9xqLULe0ulasVEvAwr6cP2aphbifc9I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PK6PirGD1sb7kxow8l876xUMVOg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Uvz8vOSH3Nd6Co21Cx/tUdfm4K0cD6oWPEktzPDSrww=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2ipVJSGL5Dl/ti1W+bbPgjTdhxc=
+			</data>
+			<key>hash2</key>
+			<data>
+			vwfxaTLkXo+YTZG+CmySFm8aJI82Re6ElEqce/aWGjY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x0hIWhrioX71lFqNWEAkfRoRZ6Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			50rNFTS69VFjoVlnBtZ/73ROorba7V63zS8tQRbdoCc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y5wEo9VQzxdD1KISSAzsudSxW88=
+			</data>
+			<key>hash2</key>
+			<data>
+			i703InwZ6TGsNS+PlmkH0VP5D1muVjr+jxaj5RkPlPs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			okODfRtgzQSx14tjokHIMiZgGgI=
+			</data>
+			<key>hash2</key>
+			<data>
+			QEZUjyqeYcu2+/WCx56QCV8mJHaVK6HMHFWoX+B57dM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OCKw71SbyWPOiTlQs5BWm6fhGkM=
+			</data>
+			<key>hash2</key>
+			<data>
+			u/xAV0HPErSi0toTbYExCsy5GQfBvAOEGWaijrqyM6I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/calendar.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ofDoXbFs7WxujFFWKtI5kDzUJZs=
+			</data>
+			<key>hash2</key>
+			<data>
+			6fb7D3Vty+V5uO6VHHN9ijojucXWnAROmiLTO6e9kCY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fj3VQ1+f0C/Jofo2r8kp5upmUO8=
+			</data>
+			<key>hash2</key>
+			<data>
+			/w+6X/C/Ak5c/7/EsU+P7H4+Fhy4uOyrD1MIeCpuEi0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/calendar/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Rw+F93J/z6yWyiMc1KtdxClMdyc=
+			</data>
+			<key>hash2</key>
+			<data>
+			ApQqgjfI0a+JF2lWxdd5nvcVhMtFZUaLOonHeDPnTSY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/chart-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k69rx/IvNTG6rK3sv0SRyvvd16I=
+			</data>
+			<key>hash2</key>
+			<data>
+			RxreGY4NPlY9rBWdaZu/YSiDl3sf//tue+wtv9BhJc8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/chart-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nwc8OvqRftEKZiKN1oxFGN2U/G0=
+			</data>
+			<key>hash2</key>
+			<data>
+			xHPr32EsuXuhu1iJZ1jL86vsUYkWEUZYUyAtYVHD++c=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/chart-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			roiIsXdmTtf5Cs2bjS5//j83rHE=
+			</data>
+			<key>hash2</key>
+			<data>
+			4fXpy05O6BphUoohVqVfexYUuIEIxL2p2G0LblTlBvI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FpGDr1XlGyfEC2IR1mn9pG1SkrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vg6UDN1rxWqHvaw6cJzwHRx98MJhWV2t9U9rif16wrU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JrpT3Wvx289ZiMTOT00Nc3bOF7E=
+			</data>
+			<key>hash2</key>
+			<data>
+			doM4OlwjJSZPVId5IBghgiVWaZd3y3N3Ew0w/THzPEw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kGwxvU9h3EM1n9bBFj6Ja/g+WRI=
+			</data>
+			<key>hash2</key>
+			<data>
+			cWfSginb6/lMlPRicoRNnUtMR7nvBj7NjjbapKV/RGI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iloTy1EhobSv1p36YNJB4OxZ4yI=
+			</data>
+			<key>hash2</key>
+			<data>
+			yypv9W+B7JpHOJ+d4EWJJNgV+X4qqC/ZyW97pVk0pG0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZBK3+HjrOeR6N32iNPf2X6qONNc=
+			</data>
+			<key>hash2</key>
+			<data>
+			LNwe0mqKeQV5M3wpWvBzSOakAPBOP2E1nIt1L5KfIeQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CMJn9k9+ZMdyohBcuSlX0Lr2Jzg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ONP30EpQ9I7+k1iLQTy/2Sle+AaFHXC19x2XrixwEEE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8b0WcXh2Z0QehlpfWjNVBrBEgt0=
+			</data>
+			<key>hash2</key>
+			<data>
+			h2njjrOLroy9+SXrAnFmTrhmTP6WBeooNt6FeaJo5Fg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/chart.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cJboTyvr4QxzWFj1r1TtN4dFfPs=
+			</data>
+			<key>hash2</key>
+			<data>
+			ngM04HCJfCK0M0IY5bbh6iSpL9l+BfGpMuOAcSFArsg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+Myflc5eNP5/RwnShaVbN0TWg3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			o6Jt2mkxaQpFGoXi2bxQmok75EW9TPuRw8155kZYE0A=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UYBVnIR5DL4kjy9Mz22qSL/UgQM=
+			</data>
+			<key>hash2</key>
+			<data>
+			SCeLI+E2epqT7QAAJ+72CDKn/wrnt1+RKtwEhZA9x+8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O7GVf2oKgKCr9uVyxeqVpR01AwA=
+			</data>
+			<key>hash2</key>
+			<data>
+			tUGkyv1HG/t39AlXpmDhXSv0nTf/AsHWnlStmubyLv8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VFlRea30tiU6iaIbDZv7pmzdZLg=
+			</data>
+			<key>hash2</key>
+			<data>
+			FvTd2PCFTsZUFgdoihZUadhGs1aEFYYPWgogzJ0C+Jk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/initializers/chart-initializers.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9Utz+MSVwLuQ0CUsZJ4pR0x4gQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			BL+/91wX/emRy0759ePQ9w4Z1zIOnXF31p11CyYLdxM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-date-helper.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BFKDNRNIM/W2cknmxaA9c1Ci/44=
+			</data>
+			<key>hash2</key>
+			<data>
+			sdRK/ZymBkew9CMXYT8+4sDUZYuvH2GLFC6YreUJW70=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-date-helper.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kPBrOr+i+IXMUuPEPUNGF+sYM9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			tqiHeW8rXMPbNaMxnAC30EopcOOV/FA4LH5VJ/s2woQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-event-data-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bvikMOKQ8vx2kFB84SxNoZtEY5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			3dFPdvFuHfliHPUG1JRV0O5gfeP6+1wl1GHDeGCrkME=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-event-data-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0QXi3WNrMWc1qeFeRe1tdHKOR4s=
+			</data>
+			<key>hash2</key>
+			<data>
+			/vPv3gyDR0CmF3HRBVNJBeXNjt4pv2MIIqI9vtjc2KI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-public-enum.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YQIRxtSdn/8k7XJGSHRwF2OAiP4=
+			</data>
+			<key>hash2</key>
+			<data>
+			CjTTqaF+kpQN/K/W1EwYRZzWKF1/YlJSVw3vIa4smc4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/misc/chart-public-enum.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zbwQlIIDOiGxk5Q/ASvU91PK7qE=
+			</data>
+			<key>hash2</key>
+			<data>
+			5n9FAfAdt39bZHcpQEygbzXWBAiRdmAW7dZRESR24qU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EVn1dpSVdtfvGGuCqDOyLyDwu/g=
+			</data>
+			<key>hash2</key>
+			<data>
+			phQt6OV0iPNuOXFLGdvUm1zh0eAWZuwah8QTWb7m8J8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sqhfyU3nI7WlJsc4h5otps7gud8=
+			</data>
+			<key>hash2</key>
+			<data>
+			KjbOStng4k4G9eQMJTh8xlMklnBtW89H93pF2x/prds=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vHc4strdBygrI1/cZvtuJDrxk4U=
+			</data>
+			<key>hash2</key>
+			<data>
+			vws3U5EKeYrrZrsXM3iDFWXQCKh27v5Cjkr75uNzWaw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MLRQ2u60miEMFQmP/PDnFfMvnoE=
+			</data>
+			<key>hash2</key>
+			<data>
+			/h9asY5LaA+NsEfA3Bsmgu3td9WAqQBRFqbBXnSblAw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-annotation.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XR6h/tSonqtgsPz+l+bciG6IiR4=
+			</data>
+			<key>hash2</key>
+			<data>
+			etT9ykWXk4/A++QHXlplJw9jmkxOdia5hMrx0kB78GA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iHTnAtFL4eoduZusA7+FbnbUbEY=
+			</data>
+			<key>hash2</key>
+			<data>
+			uVy6mFT8kkb5U8ngb/AgbfvxDZy2cPcNnSGkx9cfE1A=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kyTtGBLqGtRBB3tt4YivelF6AxE=
+			</data>
+			<key>hash2</key>
+			<data>
+			pffDDHRkZklqkXQfmVUcxoncO+WqFUDRPrcbu+HVlm0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1SACxZuOvyychudyxVENGIMMGRE=
+			</data>
+			<key>hash2</key>
+			<data>
+			GPaYIeERt7H6ifp2sv0SJMa/6fKCyBpT2sImzM2uHcE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-cartesian-chart-grid.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WQS4ZCJEPMDxk9dgw7LtIlkZGVQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			acQwvhh/emdUx2WGk7Sl7f1Z+VfMcqS7MEAZZuw8My8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-label-style-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X0UVOlusvEtWfk8wRSJX9tG9VqU=
+			</data>
+			<key>hash2</key>
+			<data>
+			fnE1BX7zSyw5fkxY55F0XLkb4V4Z9PBBvBFVvQig6p0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-label-style-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o5mfc2zPPRwufuLTYvrOkiP8YvE=
+			</data>
+			<key>hash2</key>
+			<data>
+			dxzyFWlumxPEBEYOsjvUGddGzDHmQmuI9q2H9QArvc0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-palette-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			92CDG/GZsmUs3cad4seymWNrODE=
+			</data>
+			<key>hash2</key>
+			<data>
+			pU77phEmnPin/lLvoZSvW4H0P1YX4UNOihVYt19G1YU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-palette-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qzbdWifza90Xwn4NVUYKAV+5tH4=
+			</data>
+			<key>hash2</key>
+			<data>
+			DFGpScSwxtI7ZxtUxjzaCy96sJAShHKbPc/aVcMNEZQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vHah6a8NCfaHT23EyCttr5jIVDE=
+			</data>
+			<key>hash2</key>
+			<data>
+			fSlt2RuhbOUz+7U5+kLND0vPFONJgxBRH5HvcNjAtLw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/QL80i1Ej7CkrxKHaBBYTZ2yVoo=
+			</data>
+			<key>hash2</key>
+			<data>
+			CkesibBFefhyOg40oRVpHxdYHtGh0q2Z9afK9mjX35k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2F3v3wj+AoVOqQQuu/iMuUZbeL4=
+			</data>
+			<key>hash2</key>
+			<data>
+			0rbB4fbIwdHoxyB51pieHQeXf3X6FguOfMSH9YI+ckw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/parts/chart-track-ball.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vT2jphXtCr3xDASHdW7nsl7to8s=
+			</data>
+			<key>hash2</key>
+			<data>
+			tq89AYGn1nz7ISVX6DkU3vDO+9HMLIzqLN726c7Voxg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bRtHHRUE6T0L+nF1ow+xwIofy08=
+			</data>
+			<key>hash2</key>
+			<data>
+			fLbdIr6JCxbbU2r9jgELmKm/VtfMxpECUOM1in3nOHE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jey3o2ZG+PD0jOh7N2UP8TUw/CQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			dh1rw7KyYMPSEcPvt48IBwqcvZurVASW1qc6ObKZoQ0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			660dWwPKt0rg16tcMV8Psx6lQQU=
+			</data>
+			<key>hash2</key>
+			<data>
+			B6LSajXCUlDgsAPsuwo3XEssynB5WJEn4OY7oz/g2WA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-axis.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7lzXtXG1njZhWCaSA22phvknyJ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			UF7C00yFgFChSYTAwBvOMNqhlshLBfQ43TNgT1eSUt8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			scAO9FVlRdGQuwtpZYTJzNri3Do=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q2RsE/XeyNx3P+BPzAG/qC9Shuefk0IMqGMOLvcnXeE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oMREjirJNLVQLKMwQu2Pk6KGtdk=
+			</data>
+			<key>hash2</key>
+			<data>
+			c80NBmhJPhI+kjutrKgAks/piJqrtrU6zTpLr8BkCNQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gzRAtiLOCJ+XDdrviDJGtMK0pds=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ja6TtKbFjdEM1/8NpHRCmAhcbFRtq7BfQy6z21ygqoA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-legend-view.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8EbG/83QCo7C26tQxYgVKnndSDU=
+			</data>
+			<key>hash2</key>
+			<data>
+			GZSv5/v5VERbhqZ/wV4zRNXQWyVz/SAqKTf7wRtpls4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ODcnkvzztV1BBe292Tv79WHN6SY=
+			</data>
+			<key>hash2</key>
+			<data>
+			edMqegW+yjY991Ah67b/Gbk9OGvv8UoonKZLwCd1GWo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iXG1Vgw/PQh87B/12JsjhfPXrLI=
+			</data>
+			<key>hash2</key>
+			<data>
+			vsBZKd+50r+slfaVL/YBms2++el2i/wObkGsoWZuZ3Q=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qpTtl8bqE3zJjJApXsIexR5uvxs=
+			</data>
+			<key>hash2</key>
+			<data>
+			EG2f/MP9Lc5F9i8m0KFpMRROH02L9J8+pabPoT/lbLg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/chart/visualization/views/chart-series.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Olnqlkl7gv52JzmkBA6WslEk6+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			65FiXgstNnhP4uRjzL09XK+jnViYoajQY0FfHff2g0I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/dataform-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QXXOLewEdX3W4Cb7u1XFXNdz3LY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pwq+L71VTfOGmbRSLR0v//WAoX44j3OQF0TjMEg0TPE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/dataform-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BqlG8mKib2tYytjUBVJTrY24eM0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZRppCVWKKMBrWbYhavGsGPL/VHclfkGQorK1PRiEtZQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/dataform-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gTZEMmRxV0e/ivQG5ZNf8DFWYXc=
+			</data>
+			<key>hash2</key>
+			<data>
+			WdQNNT4SNNyKWSZYjb0UJxrCqOC9lsfKstSnovjYtvM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RFjjZ5jvKGiyNaDantGkr+R1wjQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zhww9kIcM3UPQJVwHUwDSGa6x7RBBdvZpa4PCBaBTQU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TTyXs017xzGuc57PtSsjoleHFuI=
+			</data>
+			<key>hash2</key>
+			<data>
+			csvDmesRoBlSWUabI6YnPOP4ivQDRZoGPfhA5Aigqak=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iRs9FSRerphOUf5I1fNgD+lqdvs=
+			</data>
+			<key>hash2</key>
+			<data>
+			QGC7aja91mbFKGKhkQBZ2zzNXgnDseDEmSrzOBSwkQo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wq3+io2X1w4/lVfgP9cNbZpbSz8=
+			</data>
+			<key>hash2</key>
+			<data>
+			w5DKXszT2RSG5/BJjUa0uq/jeomgvq2YBcJRAx2Fx2A=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MTUjZ8p33o9kz0wS7uwriSlhhmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			h/2jGRXI+KLPOy9zkRgTaN8fMO7yo/Oow5N2Md0OIxY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d/mpDWT3N3GD3tfTlHGZ2mw5oDM=
+			</data>
+			<key>hash2</key>
+			<data>
+			A6yFUd6UQYxBlc3bBoke5ez0XSOXfSydfwTeZk5dpFs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0AOFCUhsDztTtrCVCkbyvEL3HWo=
+			</data>
+			<key>hash2</key>
+			<data>
+			eI1MK/MglJaPGBsYqxybH7lG1Qxu/hb9A3s6NXSNuA8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/dataform.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjZRSRTxwsmkj9fOC6gCqdSdNdc=
+			</data>
+			<key>hash2</key>
+			<data>
+			LtRVRRzBvWuKFs6VC1D9a5AKGqELMBG7AaQxdXen5hY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			H4QLIJCa70YPoflZEyFa/dDuMo8=
+			</data>
+			<key>hash2</key>
+			<data>
+			cndFFZMxf4N7j25ZKfVX0DWVlUPtGBU9OOQrQxz5MLc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/dataform/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/EO3A6haOVUJJyM0tUd7jElyh6g=
+			</data>
+			<key>hash2</key>
+			<data>
+			eTwNlXME/TucXc7i6Gj0K13POOFqcmIcKdsTDA8zI/g=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KUtEpF41UMDarnEsgkpcmqkMBUM=
+			</data>
+			<key>hash2</key>
+			<data>
+			70pHIrIFvhzE5TD60Nvvq+uZWZpn/719TDPmvGfpyr8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FnkvT3UN8TqR+pykpBqpEdA7F9A=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wi2pRQbic8UBO6NCpzAXV2t/iLI6rs3Vt4xHXrVA+uo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bqlUpPQjTaBuXSDYxp4+yNOXbuI=
+			</data>
+			<key>hash2</key>
+			<data>
+			X0fKPcs/Tl+yR3oBDwfQc8YtpvflkID3ofhlXUUGJSQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/feedback.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bi1dQkEyQ7uUguo527BByWQWBYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vd7o3xXTa3G0PtLHDThc5GtdOUwl5MIr2OLjE2dkv1Y=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dGAdK6wXMAMiVtySEL/nozVk42Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			wS/iNeclJ1kq8RyEEexvubr+wuEiPljflATeyb/q8ZU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/feedback/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FNooKy0dX08QVbte7Xaz8N1bkL4=
+			</data>
+			<key>hash2</key>
+			<data>
+			cOpoYCCC+LJOR/LRwMM0+lC+jze61tOxwu/CPEPGRUQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/gauges-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KAJ+aiQ4BNiqLfiXN3QHjVJmaNI=
+			</data>
+			<key>hash2</key>
+			<data>
+			uEteFQFnHeFz83u8IYY9cd5Y6+c/FItfYYF6mBNtZvQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/gauges-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s+sFqeF1JaUXLv6RqGwZSS5wDxQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			8DLYvZ47z0PE7Lo0HnQrMrVNjjgI797VtUprq5bd8l0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/gauges-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x6NfCA/uXM1UFTJVs/qIQpLBYY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			WtbHCw1em2EIFGn/nf+st+65eAN3rmRWCemDU+UxJuk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IY+/dkp1idui33M4HiwOAK+T3dM=
+			</data>
+			<key>hash2</key>
+			<data>
+			x77AtGp4L1LKGlQYpAXPylrxztlUeayiBKYuwLfrScg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d8kMD8GGE72n7IG0sjw/rRK9UKs=
+			</data>
+			<key>hash2</key>
+			<data>
+			qgwFpJ8hz45SN/PXstt5DMlwQtQCuOIFg7fFHdNac1I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GceZ0r2gvtkxntUHJqI1K7/VX8w=
+			</data>
+			<key>hash2</key>
+			<data>
+			p1LCIoJNkDFtdC+4Pkeqo0tTX8xWh5nTCbldH9v08Y0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S/SRyt+SNlevC08NXb9q5gAnbbk=
+			</data>
+			<key>hash2</key>
+			<data>
+			CRv2z9tnqtTqX0TnELxEUz8f1xEYj3oepTsZHp1o5wc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4C4910mnx6b94o3mB8NNtpGkheg=
+			</data>
+			<key>hash2</key>
+			<data>
+			rG7H7YayRCAGHFqf3DigD0rFTTr1hLlRKWN14Oe3J8s=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/gauges.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QXKMql/LjSAyDXQUIUNuLnhrUwU=
+			</data>
+			<key>hash2</key>
+			<data>
+			zMosqj+UJc/ZjHEAedxE+HWNzwRRSJpag6p1qw3O/h4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sf2snCgGSuaHSpk1ZjOMVQCvXxE=
+			</data>
+			<key>hash2</key>
+			<data>
+			IW88PKFeA4v1w76+HY0nBQHJ3oNJAwG6w/amgHjB6oE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UYBVnIR5DL4kjy9Mz22qSL/UgQM=
+			</data>
+			<key>hash2</key>
+			<data>
+			SCeLI+E2epqT7QAAJ+72CDKn/wrnt1+RKtwEhZA9x+8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZdRlK69Zv8ZBNLDV1d6fDPYiSpw=
+			</data>
+			<key>hash2</key>
+			<data>
+			pEkZm5duwJ56px7AnqtqiEkd563Ilt7ZfgjJi6o9z+k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cd+CiVPQk285EKaczhgBA0Mu0rU=
+			</data>
+			<key>hash2</key>
+			<data>
+			VYYl2EyHWNFzinvud2lHa7qD0u9AGG6DLwk9ZKGVDBM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/initializers/gauges-initializers.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			giIQpEkqzBL7A1yjTewPPEWV4kU=
+			</data>
+			<key>hash2</key>
+			<data>
+			gITOgIGskKMXkm/n3KGIq9A/fpObITijVK4lIFn8PW0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/gauges/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZjYvBaovwhnnxL6aNAPImBGpj8Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vr8/7pbReNZZgj9OyaGi2Gn+q1fvUHCUqqJ/zqji7zU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/ios.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eNfOhyATzY23HLcaSxhku0cOXTE=
+			</data>
+			<key>hash2</key>
+			<data>
+			N0vSX+bZYICTBm+9oFeaDB3/41s6sMSXVB4k4mzVMBM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8/7GOgqDmbTVnVbjcpYAurlx7Ng=
+			</data>
+			<key>hash2</key>
+			<data>
+			Itmi79OCGq+f4R+M4b/4Hy3UGlNF/inIY6J6x+HQn+Q=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Bedm8IJqQqqn9dcMx0mhyTOnq0=
+			</data>
+			<key>hash2</key>
+			<data>
+			wgfDL/GHfedF9q31/b6jeEf9JEC8EHwbBrBrFvaX7NY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZdyG30ZfLqyY4w5BEpCZnB9dlg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			/IQ+GZ6zjbDj46PTcAEOYF49GC/ttZVhRw8wgugMEY0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/listview-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OuAUw/v1IxX4rI5dhP1tlN3++j0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Dr7uc96uapH7x8tKeO9ED96PmrKmtabRB/fKRHfC5Fw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/listview-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BSuIWctdvSa/7Hsq1qNSQROIiVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			FpMUKxSDyJk0L2Jo6Ju3vWoQyBUiLL9DJmy955rEC5o=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/listview-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uDdoD4U2rDYELRgrn2lRi0b1PZs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fo2TkVn3JdqLH2IRLvWcAUgg6ycGhum+Ctac0dO1OLE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qDuj8pZ3dampScOMdR9rGVRSh9Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			cSu8ObJrdSIGnBX6Gu/J6KhdZZUVkox8eZsjiGrBVH4=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SO7GdKAH1QVhxwsWZ1EqwqHVYPw=
+			</data>
+			<key>hash2</key>
+			<data>
+			v0xLslWqzOAOsY0DYPCLcGjnVyJx3YUIeLzca3zvf/w=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oEOzpYwes3q+MradcVV72kwfNII=
+			</data>
+			<key>hash2</key>
+			<data>
+			8i9/MJuSFXvc9NO9GNlLoMysDdvUB4PsDtgnpvgqflI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Sgjtll78peaEYxjQGFURaTrkKaI=
+			</data>
+			<key>hash2</key>
+			<data>
+			83zEnPHnbrwoprJlNyNJ7cQd7TjcO777Aq3RuV2/218=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EEvaxmlZYkHDSaC/1B03zvCf6lg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zbtjtv0tMnzweVPgGjmhYkruikkwbJXKkiBaVzRJ7xs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/listview.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IPl7Krmp13aEDtZqg3WHs0REUPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			ayjmLvtcUo6C71rzEtwzlM9ilG9oHkEZI3rVqn+qi0w=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/listview/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7gxFgexRBDmpi38M+BAlYN1mZzY=
+			</data>
+			<key>hash2</key>
+			<data>
+			g+PJSdCsUYVUH5nV7+wYu8alYayx6zJgyg+s/0+/8Kw=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D/p0OaH4YJIFfKSY5ics+eTmHo4=
+			</data>
+			<key>hash2</key>
+			<data>
+			TYKEBxhMgheYIFYudZTfvJXg7saBoGWH2Wrol4cL+eU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/references.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RZ13sVzSxI2SI1X4lEdyBhoajDI=
+			</data>
+			<key>hash2</key>
+			<data>
+			DIQdMONJ1btuaZHSKCiGaO5e+96sZ+kjfZueBw4xaMY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U/bSONHxmhnOSNaX3sfr83UlcY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			1xZdqg9WEzdtVg6inKU3+rceLF4cavW8izEUM45x0VE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LIl+G7eStqY1TmWgHVySj62TVPQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XyVCaMH9nTC20XcYJDo6srr7IWZR4nEcL8JuuFO6yKQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LRYFCpvH5Jk8yxNfvAPt1zzU2+0=
+			</data>
+			<key>hash2</key>
+			<data>
+			1mtpI6xCydAGG9jcDzTSd7zK6tR2kmD6SALiqDnR7O8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/index.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			45IAL2tPtbC3+Bk4M6zqc+x44Lo=
+			</data>
+			<key>hash2</key>
+			<data>
+			QIO4DwtVUylwAmEGXGYXyc5O9JiEieeI7e9k4PpY4mQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cVLjLuvH4WgHhVeuPS1GzIdH34Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			WV+3djHbYoz0i4FEHB7LB31EyQ+Yvxpg8XinNGobxXM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/side-drawer-directives.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dSRT7h1tLaOu/Pedlt8EMfCAvUI=
+			</data>
+			<key>hash2</key>
+			<data>
+			uFfeePv4CiKI2L4C9aTwgo2i9YvqpTIbw9Srrm/hn9k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/side-drawer-directives.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lmnxd1iWh+YeUhxa5AcZV0BAuLw=
+			</data>
+			<key>hash2</key>
+			<data>
+			AVnu4+OKLx7iqXSbTnl5SQ9o744BHozhBr1MAogrWDc=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/angular/side-drawer-directives.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tq9zzub3kcXUjKof4L5+hoVkg94=
+			</data>
+			<key>hash2</key>
+			<data>
+			yhPOBw+7VtulvFfN447QqE+I5avZlXvazQKF+ltRnUA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oM9FwyLkQDMI/KVJyrAJ90e7bd8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pe2qMSiCxEHf+7JSd74bG+F61byyGyqYQR4/d1+zXvU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ioq4R6C3uz4y4TViY+uxIZutq6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			lsZBtgxoZruTc8/TeNzMRaR71zGPKtPt7nT3V2RwRnk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NE3P+hjXi19qfkGH452/MrPc5q0=
+			</data>
+			<key>hash2</key>
+			<data>
+			lrGwz6im+udNyDkEOMhml2iqOxoEVsB2LD+v8GFzOro=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer-common.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nqpSzlJpgVtGdDw6wiKht4A2Q3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			8qyRujsvLpBplHlB6lTj/GWKn8Et/6M2D7LdYeI1MBI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VU+8/b/LJerS3FRh7iJNQ4Pq864=
+			</data>
+			<key>hash2</key>
+			<data>
+			0Qku2Bwg031uSS6NxMNf4BgWyoaPokCCIr3nbK5hX3w=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-pro-ui/sidedrawer/sidedrawer.metadata.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4XPlblkMjjbMH2wzNGQv4hY5AnM=
+			</data>
+			<key>hash2</key>
+			<data>
+			TeJYqDvvOfhtcCTk66D0oNp4KjM4VDzd1st3hpgRxd8=
+			</data>
+		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<dict>
 			<key>hash</key>
@@ -27912,70 +30189,92 @@
 			g3mOHEHIsFWu/Ryu7xSSPYfVL1akt570MuFI1JAZ3Lk=
 			</data>
 		</dict>
+		<key>app/views/chat/chat.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0QwvKafX/ODGnjdbOUkKcduys+k=
+			</data>
+			<key>hash2</key>
+			<data>
+			XJ9U7Rh1FYbWj2otDkO6ZobFhfZ8Qwc/c476TesUPr0=
+			</data>
+		</dict>
+		<key>app/views/chat/chat.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YVLofFitwSb9IDsEJqyY0+bmqQ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			0G2unFfyO8xjZCo+4im64S/nIsRl2iQPbIXsSzvGoMs=
+			</data>
+		</dict>
 		<key>app/views/list/list.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oj9A1C7rSjomDkauYgATG6aaHIg=
+			XbDL958v5CMaeQb9RLCu8SWd/wU=
 			</data>
 			<key>hash2</key>
 			<data>
-			USc57xRWmCxGZR1obtNwNJeDlWHSMYgxgtcQAQpMxVQ=
+			iErpPPFyppWahqCEp34NHZkMLdzmEo0EJxiXYJMxidM=
 			</data>
 		</dict>
 		<key>app/views/list/list.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			JEtMUb3cbVhctWLu4Rb36VFtUuU=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			OzkkpaufvOz9nfDBXlP40RTmZE4WLeGpvmXZdiwqKj0=
 			</data>
 		</dict>
 		<key>app/views/list/list.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZtVXvC1qYVsx2K5oWwpAqlIfwns=
+			amvhAxs9ZwSoqtdz2hYus8LdQoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			qaXtS5zPGmkSGFOLM4iDMtreWRTC2/FPrItDl6gW2xA=
+			4H/Yt9RxMFSyUULv1BSE3irwLZsHJrlL988bpKqBen4=
 			</data>
 		</dict>
 		<key>app/views/login/login.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			qhPwrNNayhvPWJMNzBBz9PAzGeE=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			qNh1TE9MmeDMTPTZW3ObXvh8IOHXvjkcc+ZubJsNr2M=
 			</data>
 		</dict>
 		<key>app/views/login/login.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			dgXAmNOe3USbM/ebC6Lyi4CSOmI=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			/iIEwExM51T4Vmwwz1HAiHNx5lyqxw+sev9MIyjp+ko=
 			</data>
 		</dict>
 		<key>app/views/login/login.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3z7ist1f71H6HI28Yb0c8Ozi5e8=
+			gJtoXgqWrC43OEgZYjsXHYLx1rc=
 			</data>
 			<key>hash2</key>
 			<data>
-			g8f1LoCCOV9QX6SIzS+J0qeC+KHEbwBIlEdQERORNFg=
+			4ZDBPjcrMHP0BtDenuQRe3PtZpbsTPOqjTRBmhEubLw=
 			</data>
 		</dict>
 		<key>app/views/register/register.js</key>
@@ -28055,6 +30354,17 @@
 			<key>hash2</key>
 			<data>
 			8tVbXmtPufRcK6y6EPQVPsv0sXMRMcaZSS74ZYh/GiE=
+			</data>
+		</dict>
+		<key>textLogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OOSoiIE1ajYKPyidV1xEFZmE4NE=
+			</data>
+			<key>hash2</key>
+			<data>
+			yCxGy6EgNVtfAiMK4Io6uGmFDZBiuLvyQq4rxzMIgZE=
 			</data>
 		</dict>
 	</dict>

@@ -1,0 +1,20 @@
+@import '~/nativescript-theme-core/css/core.dark.css';
+TextField {
+    margin: 10;
+    padding: 10;
+}
+Label{
+  margin: 10;
+  padding: 10;
+  font-size:70;
+}
+Image {
+    margin-top: 20;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 80;
+}
+Button {
+    margin: 10;
+    padding: 10;
+}
