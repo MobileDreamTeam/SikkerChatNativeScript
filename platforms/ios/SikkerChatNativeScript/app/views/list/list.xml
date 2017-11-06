@@ -1,5 +1,6 @@
 import "tns-core-modules/ui/list-view";
 <Page loaded="loaded">
+  <ActionBar title = "SikkerChats"/>
   <GridLayout>
   <ListView items="{{ people }}" itemTap="convo">
     <ListView.itemTemplates>

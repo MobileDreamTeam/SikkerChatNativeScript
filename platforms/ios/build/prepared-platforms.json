@@ -1,5 +1,6 @@
 {
     "nano": true,
+    "nativescript-chatview": true,
     "nativescript-plugin-firebase": true,
     "nativescript-pro-ui": true,
     "nativescript-theme-core": true,

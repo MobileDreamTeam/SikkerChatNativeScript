@@ -18,7 +18,7 @@ var pageData = new observableModule.fromObject({
 
 exports.convo = function (args) {
   var topmost = frameModule.topmost();
-  topmost.navigate('views/login/login');
+  topmost.navigate('views/chat/chat');
 };
 
 exports.loaded = function (args) {

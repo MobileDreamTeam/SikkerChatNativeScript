@@ -1,21 +1,37 @@
-<StackLayout>
+<!-- <Page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:chatView="nativescript-chatview"
+      navigatingTo="onNavigatingTo">
 
-    <ListView height="90%" margin-bottom="50" padding="5" #list [items]="chats$ | async">
-        <ng-template let-item="item">
-            <GridLayout columns="*" rows="auto" class="msg">
-                <StackLayout [class]="filter(item.from)" orientation="horizontal" [horizontalAlignment]="align(item.from)">
-                    <Image [visibility]="showImage(item.from)" class="authorimg" stretch="aspectFill" height="30" width="30" verticalAlignment="top" src="~/images/k1.png" col="1"></Image>
-                    <Label [text]='item.message' class="msg_text" textWrap="true" verticalAlignment="top"></Label>
-                </StackLayout>
-            </GridLayout>
-        </ng-template>
-    </ListView>
+  <chatView:ChatView id="myChatView" />
+  <Page.actionBar>
+   <ActionBar title="PlaceHolder, CHATNAME">
+   </ActionBar>
+ </Page.actionBar>
+</Page>
+-->
 
-    <StackLayout #chatbox height="10%">
-        <GridLayout columns="*,auto" style="padding: 10">
-            <TextField #textfield class="chatTextField" row="0" col="0" [(ngModel)]="message"></TextField>
-            <Button #btn class="chatBtn" row="0" col="1" text="send" (tap)=chat(message)></Button>
-        </GridLayout>
-    </StackLayout>
+<Page loaded="loaded">
+  <ActionBar title = "PlaceHolder, CHATNAME"/>
+  <GridLayout>
+  <ListView items="{{ messages }}">
+    <ListView.itemTemplates>
+      <Label horizontalAlignment="left" verticalAlignment="center"/>
+    </ListView.itemTemplates>
+ </ListView>
+ </GridLayout>
+ <!-- message input field and SEND button -->
+ <GridLayout className="nsChatView-sendMessageArea"
+              row="1"
+              rows="*,auto">
+              <!-- chat message field -->
+  <TextField className="nsChatView-messageField"
+              col="0" row="0"
+              hint="{{ typeMessageHint }}" />
 
-</StackLayout>
+  <!-- SEND button -->
+  <!--<TextField hint="message" autocorrect="true" autocapitalizationType="none" />
+  <Button className="nsChatView-sendMessageButton"
+            col="1" row="0"
+            text="{{ sendMessageButtonCaption }}" /> -->
+</GridLayout>
+</Page>
