@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
 	"time": "Mon Nov 06 2017 14:51:00 GMT-0500 (EST)",
+=======
+>>>>>>> 690c3bd6002be01d3307ee69d531a8c99b55555b
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
