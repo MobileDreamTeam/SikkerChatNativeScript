@@ -1,8 +1,7 @@
-var nano = require('nano')('http://localhost:5984');
+var nano = require('nano')('https://18984aed-540c-42b0-ad6d-4b745c1cbf24-bluemix:20f132b06b751e60cfac0d27f736048da867bf8d9558325881303bcb34e5f90c@18984aed-540c-42b0-ad6d-4b745c1cbf24-bluemix.cloudant.com');
+testDB = nano.db.use('tester');
 
-var testDB = nano.db.use('chats');
-
-let db = {
+let cloudAnt = {
   removeChat: function(docID, revisionID) {
     testDB.destroy(docID, revisionID, function (err, body) {
           if (!err) {
@@ -12,7 +11,7 @@ let db = {
         });
   },
 
-  getUsers: function(docID) {
+  getUsers: function (docID) {
     return new Promise((resolve, reject) => {
       testDB.get(docID, function(err, body) {
         if(!err) {
@@ -115,6 +114,33 @@ let db = {
     });
   },
 
+  //the series of chats for any given user
+  getChatsFromUser: function (userName) {
+    var convoList = [];
+    return new Promise((resolve, reject) => {
+      //get all the convos
+      testDB.list(function (err, body) {
+        if (!err) {
+          console.log(body.rows.length);
+          for (i = 0; i < body.rows.length; i++) {
+            //get the convoName as a string
+            var q = body.rows[i].id;
+            s = JSON.stringify(q);
+            if (q.includes(userName)) {
+              convoList.push(q);
+              console.log('match found', q);
+            }
+          }
+
+          console.log(convoList);
+          return convoList;
+        }
+      });
+
+      //search each one, add it to a list and return that list out
+    });
+  },
+
   /*
     alice.insert({ _id: 'myid', _rev: '1-23202479633c2b380f79507a776743d5', happy: false }, function(err, body) {
       if (!err)
@@ -142,21 +168,6 @@ let db = {
         console.log('c is good so far');
         c[num] = mess;
         console.log('c is : ', c);
-        /*
-        //console.log('b is', b);
-        var messArray = b.split(',');
-        var createObj = '\"' + userName + '\"' + ':' + '\"' + mess + '\"';
-        messArray.push(createObj);
-        messArray.reverse();
-
-        //console.log(messArray);
-        var newJSON = '{';
-        while (messArray.length > 0) {
-          newJSON = newJSON + messArray.pop() + ',' + '\n';
-        }
-
-        newJSON = newJSON + '}';
-*/
         testDB.insert({ _id: chatName, _rev: rev, messages: c }, function (err, body) {
           if (!err) {
             //good to go
@@ -207,4 +218,5 @@ function countObjectKeys(obj) {
 
 //db.addUser('test3', 'password');
 //db.getUsers('userTest');
-module.exports = db;
+//cloudAnt.getChatsFromUser('Scott');
+module.exports = cloudAnt;

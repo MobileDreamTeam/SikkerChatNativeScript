@@ -1,12 +1,9 @@
 {
-<<<<<<< HEAD
-	"time": "Mon Nov 06 2017 14:51:00 GMT-0500 (EST)",
-=======
->>>>>>> 690c3bd6002be01d3307ee69d531a8c99b55555b
+	"time": "Mon Nov 06 2017 14:53:43 GMT-0500 (EST)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": true,
 	"projectFileHash": "204770fdc3caf067d23729f63329aca0df11722f2a7bc233c5ce697253b382e5",
-	"changesRequireBuildTime": "Mon Nov 06 2017 14:51:00 GMT-0500 (EST)"
+	"changesRequireBuildTime": "Mon Nov 06 2017 14:53:43 GMT-0500 (EST)"
 }
