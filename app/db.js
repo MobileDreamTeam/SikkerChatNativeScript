@@ -3,7 +3,7 @@ testDB = nano.db.use('tester');
 
 let cloudAnt = {
   removeChat: function(docID, revisionID) {
-    return new Promise((resolve, reject)=> {testDB.destroy(docID, revisionID, function (err, body) {
+    return new Promise((resolve, reject)=> {testDB.destroy(docID, revisionID, function(err, body) {
           if (!err) {
             console.log('DELETED THAT BITCH');
             resolve();
@@ -14,10 +14,10 @@ let cloudAnt = {
         });});
   },
 
-  getUsers: function (docID) {
+  getUsers: function(docID) {
     return new Promise((resolve, reject) => {
       testDB.get(docID, function(err, body) {
-        if(!err) {
+        if (!err) {
           var messageBody = body.users;
           console.log('body is ', body);
           let u = 'test23';
@@ -31,13 +31,14 @@ let cloudAnt = {
 
   },
 
-  addUser: function (user, password) {
-    return new Promise((resolve, reject) =>{
+  addUser: function(user, password) {
+    return new Promise((resolve, reject) => {
       let id = 'userTest';
       let revID = '';
       let u = user;
       this.getChatInfo(id).then((data) =>
-        revID = data._rev);
+        {revID = data._rev;});
+      console.log(revID);
       this.getUsers(id).then((data) => {
         let usersNow = data;
         usersNow[u] = password;
@@ -56,23 +57,30 @@ let cloudAnt = {
   //adds a chat to the Database
 
   addChat: function(data, chatName) {
-    var uniqueID = chatName;
-    testDB.insert(data, uniqueID, function(err, body) {
-      if (!err) {
-        console.log('added to database with id: ', uniqueID);
-        return true;
-      } else {console.log('ERROR DB ALREADY EXISTS WITH THAT NAME');}
+    return new Promise((resolve, reject) => {
+      var uniqueID = chatName;
+      testDB.insert(data, uniqueID, function(err, body) {
+        if (!err) {
+          console.log('added to database with id: ', uniqueID);
+          resolve('success');
+        } else {
+          console.log('ERROR DB ALREADY EXISTS WITH THAT NAME');
+          reject('FAILURE');
+        }
+      });
     });
+
   },
 
   //gets the reversion number for internal use
-  getRevNum: function(chatName) {
-    testDB.get('dirtyPeteScottyR', function(err, body) {
-      if (!err) {
-        console.log(body._rev);
-        return body._rev;
-      }
-    });
+  _getRevNum: function (chatName) {
+    return new Promise((resolve, reject) => {
+      testDB.get('dirtyPeteScottyR', function (err, body) {
+        if (!err) {
+          console.log(body._rev);
+          resolve(body._rev);
+        }
+      });});
   },
 
   //gets the messages in the chat database given the name
@@ -92,7 +100,7 @@ let cloudAnt = {
   },
 
   //gets message from that user
- getMessageFrom: function(chatName, userName) {
+  getMessageFrom: function(chatName, userName) {
     return new Promise((resolve, reject) => {
       testDB.get(chatName, function(err, body) {
         if (!err) {
@@ -108,9 +116,9 @@ let cloudAnt = {
     });},
 
   //returns information about the chats
-  getChatInfo: function (chatName) {
+  getChatInfo: function(chatName) {
     return new Promise((resolve, reject) => {
-      testDB.get(chatName, function (err, body) {
+      testDB.get(chatName, function(err, body) {
         if (!err) {
           console.log('inside');
           var info = body;
@@ -122,11 +130,11 @@ let cloudAnt = {
   },
 
   //the series of chats for any given user
-  getChatsFromUser: function (userName) {
+  getChatsFromUser: function(userName) {
     var convoList = [];
     return new Promise((resolve, reject) => {
       //get all the convos
-      testDB.list(function (err, body) {
+      testDB.list(function(err, body) {
         if (!err) {
           console.log(body.rows.length);
           for (i = 0; i < body.rows.length; i++) {
@@ -158,7 +166,7 @@ let cloudAnt = {
   //function that adds message to the database, keep in mind. Doesn't actually
   //add message, just replaces old string to new
 
-  addMessage: function (chatName, mess) {
+  addMessage: function(chatName, mess) {
     return new Promise((resolve, reject)=> {
       var rev = '';
       this.getChatInfo(chatName).then((data) => {
@@ -175,7 +183,7 @@ let cloudAnt = {
         console.log('c is good so far');
         c[num] = mess;
         console.log('c is : ', c);
-        testDB.insert({ _id: chatName, _rev: rev, messages: c }, function (err, body) {
+        testDB.insert({_id: chatName, _rev: rev, messages: c}, function(err, body) {
           if (!err) {
             //good to go
             console.log('change set');
@@ -185,7 +193,7 @@ let cloudAnt = {
     });
   },
 
-  countObjectKeys: function (obj) {
+  countObjectKeys: function(obj) {
       return Object.keys(obj).length;
     },
 
@@ -206,9 +214,9 @@ var da = {
   },
 };
 
-var emptyData = { users: {
+var emptyData = {users: {
   test1: 'fakePassword',
-}, };
+},};
 
 //function for counting key values pairs
 //written by Amiya Sahu
@@ -223,7 +231,7 @@ function countObjectKeys(obj) {
 //db.addMessage('sexyKeenanScottyR', 'SexyKeenan: I\'ll be there soon baby');
 //db.addChat(emptyData, 'userTest');
 
-//cloudAnt.addUser('test43', 'password');
+//cloudAnt.addUser('GerryMFHowser', 'pass');
 //db.getUsers('userTest');
 //cloudAnt.getChatsFromUser('Scott');
 module.exports = cloudAnt;
