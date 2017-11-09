@@ -10,10 +10,10 @@
 </Page>
 -->
 
-<Page loaded="loaded">
+<!--<Page loaded="loaded">
   <ActionBar title = "PlaceHolder, CHATNAME"/>
   <!--<GridLayout>-->
-  <StackLayout orientation="vertical">
+  <!--<StackLayout orientation="vertical">
   <ListView items="{{ messages }}">
     <ListView.itemTemplates>
       <Label horizontalAlignment="left" verticalAlignment="center"/>
@@ -21,11 +21,11 @@
  </ListView>
  <!--</GridLayout>-->
  <!-- message input field and SEND button -->
- <GridLayout className="nsChatView-sendMessageArea"
+ <!--<GridLayout className="nsChatView-sendMessageArea"
               row="1"
               rows="*,auto">
               <!-- chat message field -->
-  <TextField className="nsChatView-messageField"
+  <!--<TextField className="nsChatView-messageField"
               col="0" row="0"
               hint="{{ typeMessageHint }}" />
 
@@ -34,6 +34,24 @@
   <Button className="nsChatView-sendMessageButton"
             col="1" row="0"
             text="{{ sendMessageButtonCaption }}" /> -->
-</GridLayout>
+<!--</GridLayout>
 </StackLayout>
-</Page>
+</Page>-->
+
+<Page loaded="loaded">
+  <ActionBar title = "PlaceHolder, CHATNAME"></ActionBar>
+    <GridLayout rows="*,100">
+      <ListView items="{{ messages }}">
+        <ListView.ItemTemplate>
+          <GridLayout width="50%" height="150">
+            <Label row="1" font-size="12" horizontalAlignment="left" verticalAlignment="center"/>
+          </GridLayout>
+        </ListView.ItemTemplate>
+      </ListView>
+      <StackLayout row="1" orientation="horizontal">
+        <TextField width="65%" hint="message" autocorrect="true"/>
+        <Button width="30%" text="Send">
+        </Button>
+      </StackLayout>
+    </GridLayout>
+  </Page>
