@@ -12,13 +12,14 @@
 
 <Page loaded="loaded">
   <ActionBar title = "PlaceHolder, CHATNAME"/>
-  <GridLayout>
+  <!--<GridLayout>-->
+  <StackLayout orientation="vertical">
   <ListView items="{{ messages }}">
     <ListView.itemTemplates>
       <Label horizontalAlignment="left" verticalAlignment="center"/>
     </ListView.itemTemplates>
  </ListView>
- </GridLayout>
+ <!--</GridLayout>-->
  <!-- message input field and SEND button -->
  <GridLayout className="nsChatView-sendMessageArea"
               row="1"
@@ -34,4 +35,5 @@
             col="1" row="0"
             text="{{ sendMessageButtonCaption }}" /> -->
 </GridLayout>
+</StackLayout>
 </Page>

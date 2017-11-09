@@ -1,6 +1,37 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+<!-- <Page xmlns="http://schemas.nativescript.org/tns.xsd"
       xmlns:chatView="nativescript-chatview"
       navigatingTo="onNavigatingTo">
 
   <chatView:ChatView id="myChatView" />
+  <Page.actionBar>
+   <ActionBar title="PlaceHolder, CHATNAME">
+   </ActionBar>
+ </Page.actionBar>
+</Page>
+-->
+
+<Page loaded="loaded">
+  <ActionBar title = "PlaceHolder, CHATNAME"/>
+  <GridLayout>
+  <ListView items="{{ messages }}">
+    <ListView.itemTemplates>
+      <Label horizontalAlignment="left" verticalAlignment="center"/>
+    </ListView.itemTemplates>
+ </ListView>
+ </GridLayout>
+ <!-- message input field and SEND button -->
+ <GridLayout className="nsChatView-sendMessageArea"
+              row="1"
+              rows="*,auto">
+              <!-- chat message field -->
+  <TextField className="nsChatView-messageField"
+              col="0" row="0"
+              hint="{{ typeMessageHint }}" />
+
+  <!-- SEND button -->
+  <!--<TextField hint="message" autocorrect="true" autocapitalizationType="none" />
+  <Button className="nsChatView-sendMessageButton"
+            col="1" row="0"
+            text="{{ sendMessageButtonCaption }}" /> -->
+</GridLayout>
 </Page>

@@ -82,31 +82,31 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		WHqF9dcJHLYhwI237zb4LJbnhbk=
+		X5c4giuUd/ye2ISpDleZDZj+Sz0=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<data>
-		vvKCaRzvpOXjTvuNaYbaYCNsC18=
+		2q+fXYpjZR65H6t3GFrfOMqEcUg=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<data>
-		H5UTmI00KMOmfEkr/5FVFlFEMEM=
+		bJBOoWILrGqzNNXhFd5bKZCb92U=
 		</data>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<data>
-		FVHS4ouArBMcSOdXhsgGKyLUv+E=
+		9INmarvODBrUHhMsrrAnI8WsDn4=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		/sXXPGiUkrxeQx5TQELfQvhDmqk=
+		LWa99A0pLbST8luBLJ2LuBshk3A=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
-		5M6e4aTCbb+950Vdc7fXO/t8jhk=
+		FB5kf/rl1uJwHAO6xn34fQL6bBQ=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0NrE1au2eA93ZSJ+ewLS2wU9jk8=
+		lL2nsU77hDkEP1SGcKLIbh59na0=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		/u9nZ2Urn4mPPjbBfY3fIrJNGmc=
+		1vDo43Fl3kMD+P94errJ9BBdkXo=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -122,15 +122,15 @@
 		</data>
 		<key>Frameworks/Protobuf.framework/Info.plist</key>
 		<data>
-		Cy4QHLXhP82gfegFLcjQswhQdcI=
+		TOQYydoZHCeMwS3G4sNWjOvKlUA=
 		</data>
 		<key>Frameworks/Protobuf.framework/Protobuf</key>
 		<data>
-		nCpcImR3hVZjZUAqT9+iDgVTKHU=
+		EKiNWnUbb7/QHPiLjbZCedHQ7zw=
 		</data>
 		<key>Frameworks/Protobuf.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8wWTY3OBFacLmvq1ZtHFSTJRc6s=
+		G9OWwMshdZW3v6xvhdB07FyylwE=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		C6W2LVF6elTjUXSUZ6ucy/Bq+QU=
+		lId6lNXaF9lK50NPEjnL10OU9zU=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Frameworks/TelerikAppFeedback.framework/TelerikAppFeedback</key>
 		<data>
-		ZifjCIABN01FTmeaIGmUmXoFKCs=
+		akguAUiLUNAlHAP7/fRK6QplwWI=
 		</data>
 		<key>Frameworks/TelerikAppFeedback.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>Frameworks/TelerikUI.framework/TelerikUI</key>
 		<data>
-		11Fo4II5E9ehEyn8IWiZ07Pl3eM=
+		XX3LJKlbZRpd6mSXFEEVOJDdXt4=
 		</data>
 		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -170,27 +170,27 @@
 		</data>
 		<key>Frameworks/leveldb.framework/Info.plist</key>
 		<data>
-		AeC0y3TfNLZChWLbfbl3H5JYa9o=
+		svp6kjqZHgDctHA8v+NrINmwPWU=
 		</data>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		v6m7UOlzmprw/0FIYNm8/zZ6Ods=
+		Dy5HVrck33YnpcyjCHics64T3eE=
 		</data>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<data>
-		LScD3SUHg0uovUPqe3fWyriSlAA=
+		SRWWQ6ZqLahPlMLcbdIV9dJ1jDw=
 		</data>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<data>
-		wCsZ1GRJqTC7/27yskBNDrKjt30=
+		ktEQ5TxzigoRD5eX5jrZvCTPpKg=
 		</data>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<data>
-		nkVc6u9yX7yArpUI5i4ZgbamViE=
+		oLb3dBQmf6NRDlQsNyjNHAw3sqc=
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		FEwMrZTFwJJzRUCD7I5XmWM/cAU=
+		y+TObxZBhB3UuczJrml+Eytxhn8=
 		</data>
 		<key>GoogleService-Info.plist</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ptLjYHLGdSNQXlimnG+sMNTjns4=
+		xOnAvLaBtULonNMEpUtHBzZxhYo=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -266,7 +266,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		v9DCjSpyvWH+cfPpdBYwB7FHdBg=
+		EDIuHydn+jB1TtD7IxH0QIL8PTQ=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -274,7 +274,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		VjPueQ4DcQY3TfrlB6hsekP0nFc=
+		KZf/QhBhodg7yiVPjf4ZWFupZ/g=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -4114,15 +4114,15 @@
 		</data>
 		<key>app/tns_modules/nativescript-chatview/index.css</key>
 		<data>
-		Di22+EdxJqFaSM5AxFIfRA+KABo=
+		PQz8L3DPXqb9afXgfap4btFoPng=
 		</data>
 		<key>app/tns_modules/nativescript-chatview/index.d.ts</key>
 		<data>
-		xUIruyoe/uJCCl5dnYx19L2iG5E=
+		sQrPSIsdd+1/uJ4rGg6jSCOrT5M=
 		</data>
 		<key>app/tns_modules/nativescript-chatview/index.js</key>
 		<data>
-		oCcNaKy9eyrdcYzAb2erIuvyoNk=
+		1d/GcI5K+OCRAMiOzBAUyKiCYns=
 		</data>
 		<key>app/tns_modules/nativescript-chatview/package.json</key>
 		<data>
@@ -8066,15 +8066,15 @@
 		</data>
 		<key>app/views/chat/chat.css</key>
 		<data>
-		F1/kzA/Cu/vXUjpNiR8r8+ix/1k=
+		pn9UmPVpxw+uRKbruREzoueko30=
 		</data>
 		<key>app/views/chat/chat.js</key>
 		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		CofnPDahKm4VTdem+n3F4sabFiI=
 		</data>
 		<key>app/views/chat/chat.xml</key>
 		<data>
-		VYuEOiLKXrqC6EfZ3dEWSKVutuo=
+		yOXPAsvYWAlTPlodkBisKXRGbAE=
 		</data>
 		<key>app/views/list/list.css</key>
 		<data>
@@ -8086,7 +8086,7 @@
 		</data>
 		<key>app/views/list/list.xml</key>
 		<data>
-		Mf7njyj4ZidjKC7yyQrR1P9LwHs=
+		qTMtA0N7IlISDfAEw/Kv5i4lt+4=
 		</data>
 		<key>app/views/login/login.css</key>
 		<data>
@@ -8353,77 +8353,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WHqF9dcJHLYhwI237zb4LJbnhbk=
+			X5c4giuUd/ye2ISpDleZDZj+Sz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			IgZFuRADsT856aiMUmRc+XxRLctU4rNQ8yGC/EZAnNM=
+			LX1HxZC+AfIECRrZs2Lf6c1mrWCjDWyI65IqftqUOt0=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vvKCaRzvpOXjTvuNaYbaYCNsC18=
+			2q+fXYpjZR65H6t3GFrfOMqEcUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WSPipT6C8djP11z1fSBxPCXHYq3ez1p7cJUG1ji+upE=
+			KifKHXiHarizxfW5sw/MgFcqaFRN5IzzjvUp3RbL8RI=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H5UTmI00KMOmfEkr/5FVFlFEMEM=
+			bJBOoWILrGqzNNXhFd5bKZCb92U=
 			</data>
 			<key>hash2</key>
 			<data>
-			tl6h7Z2g68d7YGyjhsGfaLs6HZTUT34D3zG4W8gH/U8=
+			bVxBbO9R9OZD/z4UN1BBnRxNJ9Rns0Toxykn6aCP+DY=
 			</data>
 		</dict>
 		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FVHS4ouArBMcSOdXhsgGKyLUv+E=
+			9INmarvODBrUHhMsrrAnI8WsDn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h4TAr/dALsmeYyCxbSnyI8A6rQog4SoNSlqUl3ymTsk=
+			B36aXnOUFFZB+kmL0VWriqV0a/YERNWBnRXhuO86a6A=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/sXXPGiUkrxeQx5TQELfQvhDmqk=
+			LWa99A0pLbST8luBLJ2LuBshk3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			2HcocblHylRs1XsZXACLCdLwCbXfkgCpbzj28bo6Vog=
+			m081XJhkH1oMjzyXG4LSluoab51ofIZveVsN9CA/pHg=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5M6e4aTCbb+950Vdc7fXO/t8jhk=
+			FB5kf/rl1uJwHAO6xn34fQL6bBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			dJyd0btUX5g5pZqi1IVSvVcxDcFtUn5DBcB3rR3DXHA=
+			Db8ES6zAZ8Em46VV4wbNz6Lm2MthJXFzAoUMbYlIdm4=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0NrE1au2eA93ZSJ+ewLS2wU9jk8=
+			lL2nsU77hDkEP1SGcKLIbh59na0=
 			</data>
 			<key>hash2</key>
 			<data>
-			mxgrrrg4Rz34YBW9LK/pGxxzzwNmgl/P0WtUSb1VWoY=
+			mJZMpiLm0BJHbMaMmmtXJjcYL1t8IfkmAWOHAx7rtEk=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -8441,11 +8441,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/u9nZ2Urn4mPPjbBfY3fIrJNGmc=
+			1vDo43Fl3kMD+P94errJ9BBdkXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwR+2Me21lXnpsGmrq4VMrCy7bQVAianTc1HH9j74u4=
+			FJ2174xMpG1PM6HkuG+tMJMF9IR99yQOthFeZKKYHWU=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
@@ -8463,33 +8463,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Cy4QHLXhP82gfegFLcjQswhQdcI=
+			TOQYydoZHCeMwS3G4sNWjOvKlUA=
 			</data>
 			<key>hash2</key>
 			<data>
-			fHasm9imadOcXc+RGbGjcnv95GXY0h4StGCa2Ll58W4=
+			zDz43pDJAyt5cD/xETfRCsVZN22kjVUYzWT7ktpenKA=
 			</data>
 		</dict>
 		<key>Frameworks/Protobuf.framework/Protobuf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nCpcImR3hVZjZUAqT9+iDgVTKHU=
+			EKiNWnUbb7/QHPiLjbZCedHQ7zw=
 			</data>
 			<key>hash2</key>
 			<data>
-			O0ROiYzR2Ce+JykTy2vMIl7QvvqjR90VQKOQnPEY5Pc=
+			081TsNsqqOdd3zQAoeRZVBHnHFn36SdBk75POQ3Zcyw=
 			</data>
 		</dict>
 		<key>Frameworks/Protobuf.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8wWTY3OBFacLmvq1ZtHFSTJRc6s=
+			G9OWwMshdZW3v6xvhdB07FyylwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			WxXxv6UoEpHRdU6aYQz46xeOqedMeURprkgIofO1jIg=
+			V6teFHmC4L/iiMuujaZMRFu3ZfHa+nYqhFRHvjeg2QU=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/Info.plist</key>
@@ -8507,11 +8507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C6W2LVF6elTjUXSUZ6ucy/Bq+QU=
+			lId6lNXaF9lK50NPEjnL10OU9zU=
 			</data>
 			<key>hash2</key>
 			<data>
-			B91GOEafoZiO0jK20YqObwxV5J2oDs0pIzGmChf47KM=
+			IsAWSlQm2FdKmzAjJkHVxa3sAzmu/bPdGHdjjZwoQd4=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
@@ -8540,11 +8540,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZifjCIABN01FTmeaIGmUmXoFKCs=
+			akguAUiLUNAlHAP7/fRK6QplwWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			4KtFsaw+wQV8tzvvkkmn1WSDoLO7YbPulPwRexy0SX8=
+			RcKeYiMtSlraBzMb5U+3HiDFcKD7s/lK+64jj9VInoE=
 			</data>
 		</dict>
 		<key>Frameworks/TelerikAppFeedback.framework/_CodeSignature/CodeResources</key>
@@ -8573,11 +8573,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			11Fo4II5E9ehEyn8IWiZ07Pl3eM=
+			XX3LJKlbZRpd6mSXFEEVOJDdXt4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tKxHoEka+yBbwbsDPhjBTVb3hhS0G5XUR+HcbbE0300=
+			CTDTogDeufDuTf5mVZYaB7M4458J021Lg1kTunfKJU8=
 			</data>
 		</dict>
 		<key>Frameworks/TelerikUI.framework/_CodeSignature/CodeResources</key>
@@ -8595,66 +8595,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AeC0y3TfNLZChWLbfbl3H5JYa9o=
+			svp6kjqZHgDctHA8v+NrINmwPWU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wqNavjqV+3fqhQCus4u9N/tw6a+I2AXEAhQi+JFruKY=
+			LOkcCQYmexkotxYZgsoA/Zf9RUAn8ZQcI5mnSyuHY98=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v6m7UOlzmprw/0FIYNm8/zZ6Ods=
+			Dy5HVrck33YnpcyjCHics64T3eE=
 			</data>
 			<key>hash2</key>
 			<data>
-			sMcuhf4zy+VMqbM/oKNL1H2vxrPKOAiacynVXnUPK5I=
+			InNBUa1SoOiqSpEY/DTNsT4fLqf5WlshPx9Y6SClLws=
 			</data>
 		</dict>
 		<key>Frameworks/leveldb.framework/leveldb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LScD3SUHg0uovUPqe3fWyriSlAA=
+			SRWWQ6ZqLahPlMLcbdIV9dJ1jDw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tYYAwe5IDDRmC8vEeIenYqjtuMxhjdO5MEQeWnF7C6Q=
+			wMmcgyWOQktZ7EM8kbvlU5ZmmDH/iPEFi/lBwZOb8ag=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wCsZ1GRJqTC7/27yskBNDrKjt30=
+			ktEQ5TxzigoRD5eX5jrZvCTPpKg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vJFC0W8IZJgJdS/cHZQ9/HMHmnJsOxCEnxHIoxRDkrg=
+			kxSKvUP3XpRaduou4CksZAapp7Qv2gxQTRW5V/KLusY=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nkVc6u9yX7yArpUI5i4ZgbamViE=
+			oLb3dBQmf6NRDlQsNyjNHAw3sqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			czU6VW1y7AGsTEq3G2QNpXv4KojMtLyfewjJb4kembA=
+			XP/J6Mrrw3fY9OD7fG5OKKP0CXXzKz8SO+7LDA//I7U=
 			</data>
 		</dict>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FEwMrZTFwJJzRUCD7I5XmWM/cAU=
+			y+TObxZBhB3UuczJrml+Eytxhn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fXk1PrEaqOSvxAC1DDSiimJNLnXSRy9Y+i2ex7K6ioc=
+			fOEJ+pClIBp/VWOOQ2zjeO95/scXG8PiOSvMS0LMYpo=
 			</data>
 		</dict>
 		<key>GoogleService-Info.plist</key>
@@ -8848,11 +8848,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v9DCjSpyvWH+cfPpdBYwB7FHdBg=
+			EDIuHydn+jB1TtD7IxH0QIL8PTQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			5zYVPTUyK+vSVEZMVX76oPYQXPkjRl7NcsfDGCd7B3E=
+			L7TECTyHi4ipqkzq4+dK//hfe2ud6Kuipw1sfIXWPOE=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -8870,11 +8870,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VjPueQ4DcQY3TfrlB6hsekP0nFc=
+			KZf/QhBhodg7yiVPjf4ZWFupZ/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			c3f1J9MczR2PfuUzQVZFLUXN/LsSKkEtuYo/YpcDay8=
+			EmrEpM8fTGO9NOySugWKFf1+q5aIbx29Dgre5hXWtRw=
 			</data>
 		</dict>
 		<key>SikkerLogo.png</key>
@@ -19419,33 +19419,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Di22+EdxJqFaSM5AxFIfRA+KABo=
+			PQz8L3DPXqb9afXgfap4btFoPng=
 			</data>
 			<key>hash2</key>
 			<data>
-			OZmurqNqX/kXDGe1U9iTqG48aY4sHnagGBZKAhwbajw=
+			v0UYIuaxSpMb2wz0yeDHiAMRqNY3tp8f5JRx+eyTFvo=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-chatview/index.d.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xUIruyoe/uJCCl5dnYx19L2iG5E=
+			sQrPSIsdd+1/uJ4rGg6jSCOrT5M=
 			</data>
 			<key>hash2</key>
 			<data>
-			GZyCy1qeoziCyCvJx8ntiAXBDqUgzpBOancwhHGJmhU=
+			+8qNKiBnmoNlqnnaIHYUKqY9ck91HdQ6MVxA8UPw7d8=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-chatview/index.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oCcNaKy9eyrdcYzAb2erIuvyoNk=
+			1d/GcI5K+OCRAMiOzBAUyKiCYns=
 			</data>
 			<key>hash2</key>
 			<data>
-			U7IjgaDOf0aST3Je76kAdq+o+fDgUtDKZbUHCvrFrF0=
+			Qz9Db9J7uvYUKZSk/8gfIjwyu++XJxqing8S4f2ICpc=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-chatview/package.json</key>
@@ -30287,33 +30287,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F1/kzA/Cu/vXUjpNiR8r8+ix/1k=
+			pn9UmPVpxw+uRKbruREzoueko30=
 			</data>
 			<key>hash2</key>
 			<data>
-			k0dXh9fvKiAaR8zAzB/J4a8y6ouTDsZyc7g2/5kqtXY=
+			0cHIhWnh0BBLKTXcgsnk5P3woNrVDDiO36FQ3HnfMrM=
 			</data>
 		</dict>
 		<key>app/views/chat/chat.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			CofnPDahKm4VTdem+n3F4sabFiI=
 			</data>
 			<key>hash2</key>
 			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			9xusXyE4GPCJ55UAC+Sgr0nm9qmFmLe8OASlveOu+Ls=
 			</data>
 		</dict>
 		<key>app/views/chat/chat.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VYuEOiLKXrqC6EfZ3dEWSKVutuo=
+			yOXPAsvYWAlTPlodkBisKXRGbAE=
 			</data>
 			<key>hash2</key>
 			<data>
-			2cX76ctv+bxbPY+4BuSoBPMthjW2BeOxSoT48Gj48FI=
+			pI4byMCCEXGMQkMhktv56ja4GSn5K2XKQPhNlNODoqE=
 			</data>
 		</dict>
 		<key>app/views/list/list.css</key>
@@ -30342,11 +30342,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Mf7njyj4ZidjKC7yyQrR1P9LwHs=
+			qTMtA0N7IlISDfAEw/Kv5i4lt+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZcNyQFQERH+1+KmvkSFhmqhsfb3RYz94B7+tE1S/xjQ=
+			DGy4K1iIPArF1DIRtYGxZl2zvE29iLjlc6El5cMRHcQ=
 			</data>
 		</dict>
 		<key>app/views/login/login.css</key>
