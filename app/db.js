@@ -3,12 +3,15 @@ testDB = nano.db.use('tester');
 
 let cloudAnt = {
   removeChat: function(docID, revisionID) {
-    testDB.destroy(docID, revisionID, function (err, body) {
+    return new Promise((resolve, reject)=> {testDB.destroy(docID, revisionID, function (err, body) {
           if (!err) {
-            console.log('DELETED THAT BITCH');} else {
+            console.log('DELETED THAT BITCH');
+            resolve();
+          }else {
             console.log('ERROR DB DOES NOT EXIST');
+            reject();
           }
-        });
+        });});
   },
 
   getUsers: function (docID) {
@@ -18,9 +21,9 @@ let cloudAnt = {
           var messageBody = body.users;
           console.log('body is ', body);
           let u = 'test23';
-          messageBody[u] = 'hello';
-          console.log('userIs', body.users.test2);
-          console.log(messageBody);
+          //messageBody[u] = 'hello';
+          //console.log('userIs', body.users.test2);
+          //console.log(messageBody);
           resolve(messageBody);
         } else {reject('DIDNT WORK');}
       });
@@ -29,19 +32,23 @@ let cloudAnt = {
   },
 
   addUser: function (user, password) {
-    let id = 'userTest';
-    let revID = '';
-    let u = user;
-    this.getChatInfo(id).then((data) =>
-      revID = data._rev);
-    this.getUsers(id).then((data) => {
-      let usersNow = data;
-      usersNow[u] = password;
-      console.log('users now is ', usersNow);
-      testDB.insert({ _id: id, _rev: revID, users: usersNow }, function (err, body) {
-        if (!err) {
-          console.log('User ' + user + ' has been added successfully');
-        }
+    return new Promise((resolve, reject) =>{
+      let id = 'userTest';
+      let revID = '';
+      let u = user;
+      this.getChatInfo(id).then((data) =>
+        revID = data._rev);
+      this.getUsers(id).then((data) => {
+        let usersNow = data;
+        usersNow[u] = password;
+        console.log('users now is ', usersNow);
+        testDB.insert({ _id: id, _rev: revID, users: usersNow }, function (err, body) {
+          if (!err) {
+            console.log('User ' + user + ' has been added successfully');
+            body = 'user is now in the database';
+            resolve(body);
+          } else {reject('error, is user already registered?');}
+        });
       });
     });
   },
@@ -216,7 +223,7 @@ function countObjectKeys(obj) {
 //db.addMessage('sexyKeenanScottyR', 'SexyKeenan: I\'ll be there soon baby');
 //db.addChat(emptyData, 'userTest');
 
-//db.addUser('test3', 'password');
+//cloudAnt.addUser('test43', 'password');
 //db.getUsers('userTest');
 //cloudAnt.getChatsFromUser('Scott');
 module.exports = cloudAnt;
