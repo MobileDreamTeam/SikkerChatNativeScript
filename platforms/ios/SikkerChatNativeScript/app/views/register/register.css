@@ -6,13 +6,13 @@ TextField {
 Label{
   margin: 10;
   padding: 10;
-  font-size:70;
+  font-size:36;
 }
 Image {
     margin-top: 20;
     margin-left: 0;
     margin-right: 0;
-    margin-bottom: 70;
+    margin-bottom: 80;
 }
 Button {
     margin: 10;

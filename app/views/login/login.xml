@@ -2,7 +2,7 @@
   <StackLayout orientation="vertical">
       <Image src="res://SikkerLogo" stretch="none" horizontalAlignment="center" />
       <Label text="SikkerChat" horizontalAlignment="center"/>
-      <TextField hint="userName" autocorrect="false" autocapitalizationType="none" />
+      <TextField hint="Username" autocorrect="false" autocapitalizationType="none" />
       <TextField hint="Password" keyboardType="phone" secure="true" />
 
       <Button text="Sign in" tap="signIn"/>

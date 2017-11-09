@@ -17,10 +17,10 @@ let cloudAnt = {
         if(!err) {
           var messageBody = body.users;
           console.log('body is ', body);
-          let u = 'test23';
-          messageBody[u] = 'hello';
-          console.log('userIs', body.users.test2);
-          console.log(messageBody);
+          //let u = 'test23';
+          //messageBody[u] = 'hello';
+          //console.log('userIs', body.users.test2);
+          //console.log(messageBody);
           resolve(messageBody);
         } else {reject('DIDNT WORK');}
       });
@@ -48,9 +48,9 @@ let cloudAnt = {
 
   //adds a chat to the Database
 
-  addChat: function(data, chatName) {
+  addChat: function (data, chatName) {
     var uniqueID = chatName;
-    testDB.insert(data, uniqueID, function(err, body) {
+    testDB.insert(data, uniqueID, function (err, body) {
       if (!err) {
         console.log('added to database with id: ', uniqueID);
         return true;
@@ -59,8 +59,8 @@ let cloudAnt = {
   },
 
   //gets the reversion number for internal use
-  getRevNum: function(chatName) {
-    testDB.get('dirtyPeteScottyR', function(err, body) {
+  getRevNum: function (chatName) {
+    testDB.get('dirtyPeteScottyR', function (err, body) {
       if (!err) {
         console.log(body._rev);
         return body._rev;
@@ -69,9 +69,9 @@ let cloudAnt = {
   },
 
   //gets the messages in the chat database given the name
-  getMessages: function(chatName) {
+  getMessages: function (chatName) {
     return new Promise((resolve, reject) => {
-      testDB.get(chatName, function(err, body) {
+      testDB.get(chatName, function (err, body) {
         if (!err) {
           //console.log(body.messages);
           var messageBody = body.messages;
@@ -85,7 +85,7 @@ let cloudAnt = {
   },
 
   //gets message from that user
- getMessageFrom: function(chatName, userName) {
+ getMessageFrom: function (chatName, userName) {
     return new Promise((resolve, reject) => {
       testDB.get(chatName, function(err, body) {
         if (!err) {
