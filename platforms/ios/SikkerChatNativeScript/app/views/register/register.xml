@@ -1,10 +1,10 @@
 <Page loaded="loaded">
-    <StackLayout>
-        <Image src="res://logo" stretch="none" horizontalAlignment="center"/>
+  <StackLayout orientation="vertical">
+      <Image src="res://SikkerLogo" stretch="none" horizontalAlignment="center" />
+      <Label text="SikkerChat SignUp" horizontalAlignment="center"/>
+      <TextField hint=" Create Username" autocorrect="false" autocapitalizationType="none" />
+      <TextField hint=" Create Password" keyboardType="phone" secure="true" />
 
-        <TextField text="{{ email }}" id="email" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
-        <TextField text="{{ password }}" secure="true" hint="Password" />
-
-        <Button text="Sign Up" tap="register" />
+      <Button text="SignUp for SikkerChat" class="link" tap="register"/>
     </StackLayout>
 </Page>
