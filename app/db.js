@@ -33,7 +33,7 @@ let cloudAnt = {
     let revID = '';
     let u = user;
     this.getChatInfo(id).then((data) =>
-      revID = data._rev);
+      {revID = data._rev; });
     this.getUsers(id).then((data) => {
       let usersNow = data;
       usersNow[u] = password;
@@ -85,7 +85,7 @@ let cloudAnt = {
   },
 
   //gets message from that user
- getMessageFrom: function (chatName, userName) {
+  getMessageFrom: function (chatName, userName) {
     return new Promise((resolve, reject) => {
       testDB.get(chatName, function(err, body) {
         if (!err) {
