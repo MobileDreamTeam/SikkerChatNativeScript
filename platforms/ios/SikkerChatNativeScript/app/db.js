@@ -33,7 +33,11 @@ let cloudAnt = {
     let revID = '';
     let u = user;
     this.getChatInfo(id).then((data) =>
+<<<<<<< HEAD
       {revID = data._rev; });
+=======
+      {revID = data._rev;});
+>>>>>>> f13834f89079543f4759c0312b149247d681cc9c
     this.getUsers(id).then((data) => {
       let usersNow = data;
       usersNow[u] = password;
