@@ -1,54 +1,15 @@
-<!-- <Page xmlns="http://schemas.nativescript.org/tns.xsd"
-      xmlns:chatView="nativescript-chatview"
-      navigatingTo="onNavigatingTo">
-
-  <chatView:ChatView id="myChatView" />
-  <Page.actionBar>
-   <ActionBar title="PlaceHolder, CHATNAME">
-   </ActionBar>
- </Page.actionBar>
-</Page>
--->
-
-<!--<Page loaded="loaded">
-  <ActionBar title = "PlaceHolder, CHATNAME"/>
-  <!--<GridLayout>-->
-  <!--<StackLayout orientation="vertical">
-  <ListView items="{{ messages }}">
-    <ListView.itemTemplates>
-      <Label horizontalAlignment="left" verticalAlignment="center"/>
-    </ListView.itemTemplates>
- </ListView>
- <!--</GridLayout>-->
- <!-- message input field and SEND button -->
- <!--<GridLayout className="nsChatView-sendMessageArea"
-              row="1"
-              rows="*,auto">
-              <!-- chat message field -->
-  <!--<TextField className="nsChatView-messageField"
-              col="0" row="0"
-              hint="{{ typeMessageHint }}" />
-
-  <!-- SEND button -->
-  <!--<TextField hint="message" autocorrect="true" autocapitalizationType="none" />
-  <Button className="nsChatView-sendMessageButton"
-            col="1" row="0"
-            text="{{ sendMessageButtonCaption }}" /> -->
-<!--</GridLayout>
-</StackLayout>
-</Page>-->
-
+<!-- XML for Chat UI -->
 <Page loaded="loaded">
   <ActionBar title = "PlaceHolder, CHATNAME"></ActionBar>
-    <GridLayout rows="*,100">
-      <ListView items="{{ messages }}">
+    <GridLayout rows="*,100"><!-- Dictates the number of rows in the grid -->
+      <ListView items="{{ messages }}"><!-- To fill the list -->
         <ListView.ItemTemplate>
           <GridLayout width="50%" height="150">
             <Label row="1" font-size="12" horizontalAlignment="left" verticalAlignment="center"/>
           </GridLayout>
         </ListView.ItemTemplate>
       </ListView>
-      <StackLayout row="1" orientation="horizontal">
+      <StackLayout row="1" orientation="horizontal"><!-- Horizontal StackLayout for message area and button -->
         <TextField width="65%" hint="message" autocorrect="true"/>
         <Button width="30%" text="Send">
         </Button>

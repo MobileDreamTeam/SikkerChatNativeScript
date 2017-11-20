@@ -43,23 +43,15 @@
     <GridLayout rows="*,100">
       <ListView items="{{ messages }}">
         <ListView.ItemTemplate>
-          <GridLayout *ngFor="let item of data" width="50%" height="150">
+          <GridLayout width="50%" height="150">
             <Label row="1" font-size="12" horizontalAlignment="left" verticalAlignment="center"/>
           </GridLayout>
+        </ListView.ItemTemplate>
       </ListView>
       <StackLayout row="1" orientation="horizontal">
-        <TextField width="75%" hint="message" autocorrect="true"/>
-        <Button textWrap="true" width="25%" textAlignment="text">
-            <FormattedString>
-                <Span text="Send"></Span>
-            </FormattedString>
+        <TextField width="65%" hint="message" autocorrect="true"/>
+        <Button width="30%" text="Send">
         </Button>
       </StackLayout>
     </GridLayout>
   </Page>
-
-
-
-
-
-</Page>

@@ -1,3 +1,4 @@
+<!-- XML for login page -->
 <Page loaded="loaded">
   <StackLayout orientation="vertical">
       <Image src="res://SikkerLogo" stretch="none" horizontalAlignment="center" />

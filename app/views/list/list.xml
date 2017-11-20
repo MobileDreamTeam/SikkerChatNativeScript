@@ -1,4 +1,4 @@
-import "tns-core-modules/ui/list-view";
+<!-- Main page XML -->
 <Page loaded="loaded">
   <ActionBar title = "SikkerChats"/>
   <GridLayout>
